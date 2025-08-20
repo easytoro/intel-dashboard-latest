@@ -1,7 +1,3 @@
 streamlit
 pandas
-json
-pathlib
-datetime
 streamlit-keyup
-st_keyup
