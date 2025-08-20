@@ -22,20 +22,22 @@ CATEGORICAL_QUERIES = {
         "mental health", "behavioral health", "telehealth therapy", "psychiatric care"
     ],
     "Regulatory & Policy": [
-        "healthcare policy", "medicaid", "health legislation", "SAMHSA"
+        "healthcare policy", "medicaid", "medicare", "health legislation", "SAMHSA", "substance use policy", "mental health policy", "opioid policy", "mental health legislation", "substance use legislation"
     ],
     "Business & M&A": [
-        "clinic expansion", "healthcare acquisition", "telehealth investment", "HCA Healthcare"
+        "clinic expansion", "healthcare acquisition", "telehealth investment", "HCA Healthcare", "substance use acquisition", "addiction treatment acquisition", "addiction treatment business",
     ],
     "Substance Use & Opioids": [
-        "opioid crisis", "addiction treatment", "substance abuse", "fentanyl", "overdose"
+        "opioid crisis", "addiction treatment", "substance abuse", "fentanyl", "overdose", "substance use disorder", "SUD", "opioid epidemic",
+        "opioid addiction", "opioid treatment", "opioid overdose", "opioid use", "opioid recovery", "opioid prevention", "opioid policy",
     ],
     "Behavioral Health:": [
-        "SUD", "substance use disorder", "mental health crisis", "behavioral therapy", 
+        "SUD", "substance use disorder", "OBOT", "RCT", "MAT", "medication-assisted treatment", "opioid use disorder",
+        "opioid treatment program", "opioid recovery", "opioid prevention"
     ],
     "Clinic Based": [
         "inpatient care", "outpatient services", "mental health clinic", "substance use clinic", 
-        "psychiatric hospital", "rehabilitation center", "addiction treatment center", 
+        "addiction rehabilitation center", "addiction treatment center", 
     ],
     "Behavioral Health Companies": [
         "Universal Health Services", "Talkiatry", "Mindpath Health", "BHB", "Acadia Healthcare Company", 
@@ -107,7 +109,7 @@ def gemini_analysis_engine(batch_input_json: str) -> dict | list:
 
     try:
         client = genai.Client()
-        model_name = "gemini-2.5-flash-lite-preview-06-17" 
+        model_name = "gemini-2.5-flash" 
     
         prompt = f"""
             You are an expert news analysis engine. Your task is to process a batch of news stories.

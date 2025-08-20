@@ -1,0 +1,3502 @@
+[
+  {
+    "story_id": "8186e6c2-8da1-45c4-9cd0-7cfa621a534a",
+    "canonical_title": "Report Highlights Worsening Mental Health Crisis Among Agricultural Workers in Washington State",
+    "summary": "A new report from the Washington State Department of Agriculture highlights the worsening mental health and suicide risk among farmers and agricultural workers, exacerbated by economic strain, regulatory pressures, and the lasting impacts of COVID-19, prompting calls for enhanced training, reduced stigma, and improved access to culturally responsive mental health support.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Don McMoran",
+      "Washington State University Skagit County Extension",
+      "Washington Rep. Tom Dent",
+      "Nicole Johnson",
+      "Washington State Department of Agriculture",
+      "Western Regional Stress Assistance Program",
+      "Nathan Brown",
+      "Farmer to Farmer Peer Support",
+      "Progressive Farmer"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2025-08-14T00:00:00",
+    "article_ids": [
+      "4b4636f3-6760-4689-ac87-9f28fcbb54e8",
+      "2a8ebf94-2a99-4e54-9bfa-d82d31e9d756"
+    ],
+    "source_domains": [
+      "capitalpress.com",
+      "www.dtnpf.com"
+    ],
+    "article_count": 2
+  },
+  {
+    "story_id": "03c37f67-b00c-4551-989a-07258ac457e8",
+    "canonical_title": "U.S. High-Speed Rail Projects Gain Momentum with Brightline West and Federal Funding",
+    "summary": "High-speed rail projects are gaining significant momentum in the U.S., with Brightline leading initiatives like the Las Vegas-Southern California line and its successful Florida service, bolstered by substantial federal funding and a growing push to expand passenger rail infrastructure nationwide.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Joseph Biden",
+      "Brightline",
+      "Brightline West",
+      "Texas Central",
+      "Michael Reininger",
+      "Amtrak",
+      "Pete Buttigieg",
+      "Ezra Silk",
+      "U.S. High Speed Rail Coalition",
+      "Bernard Cohen",
+      "Siemens American Pioneer 220",
+      "California High-Speed Rail Network",
+      "U.S. Department of Transportation",
+      "Federal Railroad Administration",
+      "San Bernardino County Transportation Authority",
+      "Metrolink",
+      "Omnitrans",
+      "Acela",
+      "Canadian Pacific",
+      "Kansas City Southern",
+      "BART"
+    ],
+    "suggested_category": "Technology & Innovation",
+    "first_seen_at": "2021-06-09T00:00:00",
+    "article_ids": [
+      "243c21b5-ac7a-4792-9dbc-25d9b105cedb",
+      "1c4c63e0-0a9f-4525-8b88-b26dc077faac",
+      "210862ad-94f3-454a-ad30-0a20ecb036a9",
+      "76c797ef-a1ad-4354-a916-b348c69612bc",
+      "e608893a-9d23-4c2d-9104-9842917280bd",
+      "9e1d727f-0999-480b-943e-22816fd87125",
+      "f823d461-07c4-4cb0-a247-fd56b7306462",
+      "c0154683-1bbe-43dd-8204-90b51e359e89",
+      "57688db5-6ff2-41e2-9f85-ab78f2fea62f",
+      "fe36145c-1e80-4fbd-bca0-872793fac485",
+      "92129f17-652f-4ad9-a642-0944b07685c2",
+      "22a8dea3-cb0c-4d14-9d10-1697018992dd",
+      "199293e1-e9d8-42c5-b44b-be8bd7b3cd7b",
+      "94f11e2e-38a7-4461-ace6-240caae9ac4b",
+      "17700086-c593-4bb8-ac67-e9d3bf8e2552",
+      "ffda8587-331a-4b3d-8e02-55afeec8c35d",
+      "0819074f-2981-4411-b1d8-e78900d56c44",
+      "680f1661-5a65-40cc-81fc-91290fb14dea",
+      "7ab5436e-1e42-4f90-b3b7-3d9f99692b4d",
+      "5ba84aba-8c5d-497c-a6f0-36404719f100"
+    ],
+    "source_domains": [
+      "enotrans.org",
+      "railway-news.com",
+      "runwaygirlnetwork.com",
+      "skift.com",
+      "spectrum.ieee.org",
+      "www.businessinsider.com",
+      "www.cnbc.com",
+      "www.constructiondive.com",
+      "www.gpsworld.com",
+      "www.masstransitmag.com",
+      "www.nytimes.com",
+      "www.railjournal.com",
+      "www.railway-technology.com",
+      "www.railwayage.com",
+      "www.smartcitiesdive.com",
+      "www.travelandtourworld.com"
+    ],
+    "article_count": 20
+  },
+  {
+    "story_id": "551dac4c-2070-475b-8b78-11eae6e11718",
+    "canonical_title": "Houston to Open Nation's Largest Academic Psychiatric Hospital",
+    "summary": "Houston is set to open the UTHealth Behavioral Sciences Center in late 2021, which will be the largest academic psychiatric hospital in the United States, offering 264 new inpatient beds and integrated treatment programs for mental healthcare and substance use.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "UTHealth",
+      "Perkins and Will"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2020-10-12T16:01:00+00:00",
+    "article_ids": [
+      "69d32a2d-6521-4e4a-9729-64ce4b48e219"
+    ],
+    "source_domains": [
+      "abc13.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "2f21f6e1-000b-4589-987e-464e0116f584",
+    "canonical_title": "Dr. Oz Criticized for Misleading Statements on Medicaid Recipients",
+    "summary": "Dr. Mehmet Oz, in charge of the Centers for Medicare and Medicaid Services, is criticized for false claims about Medicaid recipients being 'lazy' and for pushing policies that would cut healthcare for millions, despite broad public support for universal healthcare.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Dr. Mehmet Oz",
+      "Centers for Medicare and Medicaid Services",
+      "American Enterprise Institute",
+      "Joe Kernen",
+      "Daily Beast",
+      "Gallup"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": null,
+    "article_ids": [
+      "4fe060b8-8389-4bf6-8ab5-aa6331757171"
+    ],
+    "source_domains": [
+      "www.wonkette.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "2378b66e-d7f2-4b9a-b6a5-f720ae3c626e",
+    "canonical_title": "Cerebral Investigations Offer Critical Compliance Lessons for Healthtech Companies",
+    "summary": "Regulatory investigations into mental health telehealth companies like Cerebral and Done Global for improper controlled substance prescribing and deceptive marketing practices serve as a cautionary tale, offering crucial lessons for U.S. healthtech companies on tele-prescribing, advertising, and compliance to mitigate future risks.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Cerebral",
+      "Federal Trade Commission",
+      "Department of Justice",
+      "Drug Enforcement Administration",
+      "Matthew Truebe",
+      "CVS Health",
+      "Walmart",
+      "Aetna",
+      "United Health",
+      "Elijah Hanson",
+      "Done Global",
+      "Harlan Band",
+      "Ryan Haight Online Pharmacy Consumer Protection Act",
+      "Malwarebytes Labs",
+      "Cl0p ransomware gang",
+      "Fortra",
+      "GoAnywhereMFT",
+      "Bethany Corbin"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": null,
+    "article_ids": [
+      "7fe07b28-6d77-41be-b0ac-911523e052c7"
+    ],
+    "source_domains": [
+      "www.meddeviceonline.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "273bfeb4-1e02-483f-9b14-70af27bfe09a",
+    "canonical_title": "Sun Pharma Licenses Stroke Drug Sovateltide from Pharmazz for Indian Market",
+    "summary": "Sun Pharmaceutical has entered a licensing agreement with U.S.-based Pharmazz Inc. to commercialize Sovateltide, a first-in-class drug for cerebral ischemic stroke, in India under the brand name Tyvalzi, following successful Phase 3 clinical trials.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Sun Pharmaceutical",
+      "Pharmazz Inc",
+      "Tyvalzi (Sovateltide)",
+      "Kirti Ganorkar",
+      "BS Paul"
+    ],
+    "suggested_category": "Business & M&A",
+    "first_seen_at": "2023-09-14T10:43:50+00:00",
+    "article_ids": [
+      "e39b48d2-b39b-4440-9e25-9609cdd908ba"
+    ],
+    "source_domains": [
+      "www.thehindubusinessline.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "423e6318-6a47-436f-a88a-f2ce0619a896",
+    "canonical_title": "Operation Showdown: 26 Guilty Pleas in Fort Worth Gun and Drug Trafficking Case",
+    "summary": "Twenty-six individuals have pleaded guilty to federal gun and drug charges, including trafficking cocaine, methamphetamine, and fentanyl, as part of \"Operation Showdown,\" a two-month multi-agency initiative targeting violent crime in Fort Worth that resulted in the seizure of 287 guns and significant quantities of illegal drugs.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Nancy Larson",
+      "U.S. Attorney's Office for the Northern District of Texas",
+      "ATF",
+      "Drug Enforcement Administration",
+      "Fort Worth police",
+      "Texoma High Intensity Drug Trafficking Area",
+      "U.S. Marshals Service",
+      "Texas Department of Public Safety",
+      "Tarrant County Sheriff's Office",
+      "Tarrant County District Attorney's Office",
+      "U.S. Customs and Immigration Enforcement"
+    ],
+    "suggested_category": "Substance Use & Opioids",
+    "first_seen_at": null,
+    "article_ids": [
+      "7b6355de-3ce4-4900-8f0f-eff09bae9756",
+      "3b2fe4f5-cba8-4ca0-a32b-4a76b86dd8a2"
+    ],
+    "source_domains": [
+      "www.newsbreak.com",
+      "www.yahoo.com"
+    ],
+    "article_count": 2
+  },
+  {
+    "story_id": "12decb4b-a497-456b-b2f1-0ea83b9e5030",
+    "canonical_title": "Kansas City VA Medical Center Offers Lodging Options for Veterans and Families",
+    "summary": "The Kansas City VA Medical Center provides temporary overnight lodging options for eligible veterans and their families, including a Fisher House and partnerships with nearby hotels offering hospital rates and shuttle services.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Michael Unden",
+      "Fisher House",
+      "VA Kansas City Healthcare System"
+    ],
+    "suggested_category": "Healthcare Services",
+    "first_seen_at": null,
+    "article_ids": [
+      "242612c3-d59c-4bec-89b3-649d1e69c2b9"
+    ],
+    "source_domains": [
+      "www.va.gov"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "ad07a491-c5d4-4a6b-9a72-4bdb4d801ac6",
+    "canonical_title": "Trump Administration Cuts School Mental Health Grants Citing Civil Rights Violations",
+    "summary": "The Trump administration's U.S. Department of Education is discontinuing $1 billion in federal grants aimed at placing mental health professionals in schools, claiming the Biden administration's allocation violated federal civil rights law due to race-based actions and DEI programming, a move challenged by 18 state attorneys general.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "U.S. Department of Education",
+      "Biden administration",
+      "Trump administration",
+      "Madi Biedermann",
+      "Mary Wall",
+      "Bipartisan Safer Communities Act",
+      "Superintendent Derek Fialkiewicz",
+      "Sen. John Cornyn",
+      "Sen. Susan Collins",
+      "Sen. Thom Tillis",
+      "American Psychiatric Association",
+      "Washington Attorney General Nick Brown"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": null,
+    "article_ids": [
+      "317413f2-a739-4d18-9482-b58a1ce34545",
+      "ede68118-4185-4019-a810-47bfd8cdafd2"
+    ],
+    "source_domains": [
+      "laist.com",
+      "www.fox13seattle.com"
+    ],
+    "article_count": 2
+  },
+  {
+    "story_id": "ed684e74-4714-4f26-b027-25822219ebfa",
+    "canonical_title": "Brightline Interactive Partners with U.S. Navy for Immersive Technology Adaptation",
+    "summary": "Brightline Interactive, a subsidiary of The Glimpse Group, has signed a Cooperative Research and Development Agreement with the U.S. Naval Surface Warfare Center, Dahlgren Division, to adapt its immersive technologies and simulator systems for the U.S. Military Services, aiming to improve capabilities, effectiveness, and safety.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Brightline Interactive",
+      "The Glimpse Group, Inc.",
+      "United States Naval Surface Warfare Center, Dahlgren Division (NSWCDD)",
+      "Tyler Gates",
+      "Lyron Bentovim",
+      "NVIDIA",
+      "Varjo",
+      "Eight360",
+      "U.S. Army",
+      "CIA",
+      "Department of Defense",
+      "DARPA",
+      "FEMA"
+    ],
+    "suggested_category": "Technology & Innovation",
+    "first_seen_at": null,
+    "article_ids": [
+      "82cdfbee-09b5-4b30-ab7c-0bc627eabbfb"
+    ],
+    "source_domains": [
+      "www.auganix.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "7abafe1a-c4e1-4f50-aef9-39b12dd6975b",
+    "canonical_title": "AC Milan Faces Criticism Amid Curva Sud Fan Group Dispute",
+    "summary": "AC Milan is facing a 'depressing' and 'unsustainable' atmosphere at San Siro, drawing criticism from journalists and its own small shareholders, as the club's decision to no longer recognize the Curva Sud fan group, following criminal convictions of its leaders, has led to a fan boycott and a lack of organized support.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "AC Milan",
+      "Curva Sud",
+      "APA (Association of Small Shareholders of AC Milan)",
+      "Michele Criscitiello",
+      "Antonio Vitiello",
+      "Sportitalia",
+      "Public Prosecutor’s Office",
+      "Cardinale",
+      "Scaroni",
+      "Furlani",
+      "Associazione Italiana Milan Club (AIMC)"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": "2025-08-19T00:00:00",
+    "article_ids": [
+      "6d069b2a-5391-4caa-a49e-2cff74fa200f",
+      "736075ae-9f00-42f3-9e6d-cb1d32d65c64",
+      "9093d76d-ad0c-4b08-b28a-9d201cf8b815"
+    ],
+    "source_domains": [
+      "milanreports.com",
+      "sempremilan.com"
+    ],
+    "article_count": 3
+  },
+  {
+    "story_id": "1b912ec0-9e1c-47b1-8caa-052ccee2127a",
+    "canonical_title": "U.S. Cerebral Palsy National Teams Announce Rosters for 2024 World Cups",
+    "summary": "The U.S. Men's and Women's Cerebral Palsy National Teams have announced their final rosters and preparations for the 2024 IFCPF World Cups in Salou, Spain, with both teams aiming to build on past successes and showcase the talent of players with cerebral palsy, stroke, or traumatic brain injury.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Stuart Sharp",
+      "U.S. Men’s Cerebral Palsy (CP) National Team",
+      "IFCPF",
+      "Ben Lindau",
+      "Cameron DeLillo",
+      "Marc Estrella",
+      "Jacob Kaplan",
+      "Jacob Crumbley",
+      "Shea Hammond",
+      "Nick Mayhugh",
+      "Tricia Taliaferro",
+      "U.S. Women’s Cerebral Palsy (CP) National Team",
+      "Cassidy Leake",
+      "Joey Martin",
+      "Rebecca Ostrander",
+      "U.S. Soccer Federation"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": null,
+    "article_ids": [
+      "79f5440c-cf89-4415-a68b-69e13f43381c",
+      "46df61b5-f570-4522-85e2-a999936f1978",
+      "d455cffb-27b4-4472-bac3-71a58a545bd5",
+      "4839fdde-d592-4d54-a39f-0332abf002f5",
+      "18445110-650e-4bcd-b563-048ff930ab0e"
+    ],
+    "source_domains": [
+      "www.ussoccer.com"
+    ],
+    "article_count": 5
+  },
+  {
+    "story_id": "5afa96c9-cb08-4385-9107-2e77046c9dfc",
+    "canonical_title": "Pediatric Behavioral Health Provider Brightline Reports Data Breach Affecting Nearly One Million Customers",
+    "summary": "Brightline, a pediatric behavioral health startup, informed nearly a million customers that their protected health information may have been compromised in a ransomware attack on its third-party service provider, Fortra, which exploited a vulnerability in the GoAnywhereMFT file transfer software.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Brightline",
+      "Fortra",
+      "Cl0p ransomware gang",
+      "GoAnywhereMFT",
+      "Malwarebytes Labs",
+      "US Department of Health and Humans Services Office of Civil Rights",
+      "Databreaches.net"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "9af9ddbe-b9f6-4118-80ae-b1e05c02bf62"
+    ],
+    "source_domains": [
+      "www.malwarebytes.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "328680c6-110f-4790-b6e7-dfd9c8574c31",
+    "canonical_title": "Dallas Fort Worth Airport Innovates Capital Program Financing with Extendable Commercial Paper",
+    "summary": "Dallas Fort Worth International Airport successfully utilized tax-exempt extendable commercial paper for the first time in the airport sector as an interim financing tool for its $8.6 billion capital program, earning industry recognition and bond rating upgrades due to its innovative approach and efficient construction methods.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Dallas Fort Worth International Airport (DFW)",
+      "Chris Poinsatte",
+      "Laura Alexander",
+      "HilltopSecurities",
+      "JPMorgan",
+      "Moody's Ratings",
+      "S&P Global Ratings",
+      "Fitch Ratings",
+      "Kroll Bond Rating Agency",
+      "Wells Fargo Securities",
+      "McCall, Parkhurst & Horton",
+      "Siebert Williams Shank & Co.",
+      "American Airlines",
+      "Airports Council International-North America"
+    ],
+    "suggested_category": "Business & M&A",
+    "first_seen_at": "2024-11-26T13:00:00",
+    "article_ids": [
+      "489f788b-fdea-4b48-8e87-71e697ae13e0"
+    ],
+    "source_domains": [
+      "www.bondbuyer.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "60bae32d-6a1a-476d-80d1-33d777c19da6",
+    "canonical_title": "Greenhouse Treatment Center Appoints Dr. Casey Green as New Medical Director",
+    "summary": "Greenhouse Treatment Center, a leading provider of substance use treatment services in Grand Prairie, Texas, has appointed Dr. Casey Green, a board-certified psychiatrist and addiction medicine specialist, as its new medical director, aiming to expand treatment programs and community education.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Greenhouse Treatment Center",
+      "Dr. Casey Green",
+      "University of Texas",
+      "American Society of Addiction Medicine",
+      "American Addiction Centers (AAC)"
+    ],
+    "suggested_category": "Substance Use & Opioids",
+    "first_seen_at": null,
+    "article_ids": [
+      "03c7830c-4ebf-4cb3-944a-64113be1c165"
+    ],
+    "source_domains": [
+      "www.prnewswire.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "06149e61-8290-4853-b977-0466706d458e",
+    "canonical_title": "Reza Baluchi Committed to Psychiatric Hospital After Failed 'Bubble' Journey and Self-Harm Threat",
+    "summary": "Reza Baluchi, known for attempting to travel from Florida to Bermuda in a \"bubble,\" was committed to a Jacksonville psychiatric hospital under the Florida Mental Health Act after his third Coast Guard intervention, where he allegedly threatened to kill himself.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Reza Baluchi",
+      "Coast Guard",
+      "Jacksonville Sheriff’s Office",
+      "Jacksonville Medical Health Resource Center",
+      "The Sun Sentinel",
+      "BrowardPalmBeach"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2016-08-21T08:57:43+00:00",
+    "article_ids": [
+      "22c45fbb-50e6-4496-adb3-618636cdfc70"
+    ],
+    "source_domains": [
+      "bernews.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "6deb4afe-16e7-40ab-9ecb-e514c3e9a1f8",
+    "canonical_title": "Teen Suicidal Ideation Declines, But Mental Health Access and Workforce Shortages Remain Challenges",
+    "summary": "A SAMHSA survey shows a decline in suicidal ideation and attempts among U.S. teens from 2021 to 2024, yet experts highlight persistent disparities, significant barriers to mental health treatment access, and growing workforce shortages as ongoing challenges despite increasing awareness.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Substance Abuse and Mental Health Services Administration (SAMHSA)",
+      "Jill Harkavy-Friedman",
+      "American Foundation for Suicide Prevention",
+      "Department of Health and Human Services",
+      "National Institute of Mental Health (NIMH)",
+      "Victor Fornari",
+      "Zucker Hillside Hospital",
+      "Northwell Health",
+      "KFF State Health Facts",
+      "American Academy of Addiction Medicine",
+      "Northeast Ohio Medical University (NEOMED)"
+    ],
+    "suggested_category": "Public Health",
+    "first_seen_at": "2024-02-02T13:53:51+00:00",
+    "article_ids": [
+      "88b0d20f-6855-45ec-8536-37ebb14b54a5",
+      "211f55a6-cf66-4749-9c91-b9c4ea533f45",
+      "485312f7-c964-4f45-b2d5-1482a288d878"
+    ],
+    "source_domains": [
+      "www.ideastream.org",
+      "www.kff.org",
+      "www.parents.com"
+    ],
+    "article_count": 3
+  },
+  {
+    "story_id": "9da5fad1-8f40-4a27-97e8-208701a701a2",
+    "canonical_title": "Mental Health Awareness Week Promotes Empathy and Co-Production for Better Care",
+    "summary": "Mental Health Awareness Week encourages open conversations, self-care, and community engagement to challenge stigma and improve well-being, with experts advocating for a 'co-production' approach that integrates the lived experiences of individuals into the design of mental healthcare systems.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Mr. Ali",
+      "Peter Beresford",
+      "England's National Health Service",
+      "Making Every Adult Matter (MEAM)",
+      "Joi-Michelle Rhodes"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "351e3227-8299-4472-8de2-9acbaaa64917",
+      "d706e2ff-bc43-4299-9c6b-19122affcf59"
+    ],
+    "source_domains": [
+      "vocal.media",
+      "www.medpagetoday.com"
+    ],
+    "article_count": 2
+  },
+  {
+    "story_id": "27152f91-99ce-447c-8b51-7c2b8aa5fcbf",
+    "canonical_title": "House Republicans Debate U.S. High-Speed Rail Funding, Criticizing California Project",
+    "summary": "House Republicans support high-speed rail development in the U.S. but express strong criticism for California's over-budget and delayed Los Angeles-to-San Francisco project, favoring private-sector initiatives like Brightline West, while Democrats advocate for continued federal funding for Amtrak and other rail advancements.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Rep. Troy Nehls",
+      "Lee Ohanian",
+      "University of California, Los Angeles",
+      "Brightline West",
+      "Kirk Watson",
+      "Rep. Donald Payne",
+      "Amtrak",
+      "Rep. Doug LaMalfa",
+      "Stacey Mortensen",
+      "San Joaquin Joint Powers Authority",
+      "Federal Railroad Administration"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": "2023-11-30T08:28:00",
+    "article_ids": [
+      "900debb5-7675-43a2-8191-9cddbcab7f39"
+    ],
+    "source_domains": [
+      "www.smartcitiesdive.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "6e656f84-73b3-4a28-97da-ecd00cea6aee",
+    "canonical_title": "Brightline Dealer Advisors Relocates Headquarters to Frisco, Texas, Signaling Growth",
+    "summary": "Brightline Dealer Advisors (BDA), an insurance agency, is relocating its headquarters from Addison to The Tower at HALL Park in Frisco, Texas, reinforcing Frisco's growing reputation as a corporate hub and signaling BDA's investment in culture, collaboration, and future expansion.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Brightline Dealer Advisors (BDA)",
+      "Eric Dragoo",
+      "HALL Park",
+      "HALL Group",
+      "Kim Butler",
+      "Chobani",
+      "Visit Frisco",
+      "McAfee",
+      "TIAA",
+      "Boingo",
+      "Accolite Digital",
+      "Toshiba Global Commerce Solutions",
+      "Extenet",
+      "Ruiz Foods",
+      "CBRE"
+    ],
+    "suggested_category": "Business & M&A",
+    "first_seen_at": null,
+    "article_ids": [
+      "447ff974-0d98-4fd1-b627-e316c016e2ea"
+    ],
+    "source_domains": [
+      "www.localprofile.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "d9629a9a-2aff-45f3-9a7b-dc3dc66fbe72",
+    "canonical_title": "Dallas-Fort Worth Area Daily Briefings",
+    "summary": "Multiple Dallas-Fort Worth news briefings cover various topics including Tarrant County voting site reductions, Texas Democrats' walkouts over redistricting, a new film studio in Fort Worth, and an end to a measles outbreak.",
+    "sentiment": "neutral",
+    "key_entities": [
+      "Tarrant County Commissioners Court",
+      "Texas Democrats",
+      "Hillwood",
+      "SGS Studios",
+      "Texas Department of State Health Services (DSHS)"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": "2025-08-17T00:00:00",
+    "article_ids": [
+      "e9a7efd3-8d23-4360-b225-83ed8c3d95b0",
+      "d2f07c84-bda3-4388-a681-79fbbf59efcd",
+      "290c456a-73ec-442c-917d-a9a3aa64a4d3",
+      "deae7da6-41d4-4d82-afaa-e385bf8d6bbc"
+    ],
+    "source_domains": [
+      "spectrumlocalnews.com"
+    ],
+    "article_count": 4
+  },
+  {
+    "story_id": "6a1f6bdd-3846-497b-a7c5-bdc0f30302db",
+    "canonical_title": "Rural Youth Less Likely to Use Mental Health Apps and Teletherapy, Report Finds",
+    "summary": "A Hopelab report indicates that rural youth, despite similar anxiety and depression rates, are less likely than their urban and suburban peers to utilize mental health apps and teletherapy due to factors like limited broadband access, stigma, and lack of parental support.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Hopelab"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "111e20a8-1981-42d5-b7de-95f221df6ab5",
+      "1185727b-90c3-4eb6-98ba-cff211e8d7f9"
+    ],
+    "source_domains": [
+      "www.beckersbehavioralhealth.com"
+    ],
+    "article_count": 2
+  },
+  {
+    "story_id": "b9fb9df3-5856-4005-a463-a35ebf5b5d1a",
+    "canonical_title": "Travel Ban Blocks U.S. Citizen from Bringing Yemeni Daughter with Cerebral Palsy to U.S. for Care",
+    "summary": "A U.S. citizen's 10-year-old Yemeni daughter with cerebral palsy is denied entry to the U.S. for medical care due to the travel ban, despite qualifying for a waiver, illustrating the hardship caused by the policy and broader deportation efforts.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Najeeb al-Omari",
+      "Shaima",
+      "U.S. Supreme Court",
+      "ACLU",
+      "Trump administration"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": "2018-04-26T00:00:00",
+    "article_ids": [
+      "3e31f377-38a8-4894-819f-ef2b35ff49e0"
+    ],
+    "source_domains": [
+      "www.democracynow.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "830c0a50-aa6e-4303-bf0e-0f5783346081",
+    "canonical_title": "U.S. Citizen Joseph Tater Forcibly Admitted to Moscow Psychiatric Hospital Ahead of Trial",
+    "summary": "U.S. citizen Joseph Tater, arrested in Moscow on assault charges, has been forcibly placed in a psychiatric hospital following a medical evaluation, with his defense lawyer alleging it's an attempt by Russian authorities to isolate him.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Joseph Tater",
+      "Russian authorities",
+      "U.S. Embassy"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": "2025-04-06T00:00:00",
+    "article_ids": [
+      "79a2c6a5-ec4f-4320-a362-b649a0fa4327",
+      "f3a5aa89-bd6e-4e10-8d81-e9e84e822f45",
+      "cd105819-cd73-441f-86a5-045c3d240d72"
+    ],
+    "source_domains": [
+      "kyivindependent.com",
+      "www.aljazeera.com",
+      "www.kyivpost.com"
+    ],
+    "article_count": 3
+  },
+  {
+    "story_id": "3ce33adf-19fd-4700-b37a-df7a620ef811",
+    "canonical_title": "Report Outlines Ways to Expedite U.S. High-Speed Rail Projects Amid Increased Funding",
+    "summary": "A new report highlights recommendations, including greater federal direction, technical standards, and improved project management, to accelerate the completion of high-speed rail projects in the U.S., which are receiving significant federal funding.",
+    "sentiment": "positive",
+    "key_entities": [
+      "Eric Goldwyn",
+      "President Joe Biden",
+      "Federal Railroad Administration"
+    ],
+    "suggested_category": "Technology & Innovation",
+    "first_seen_at": null,
+    "article_ids": [
+      "6714ba78-fe19-434e-b68a-6cab383fce16",
+      "cc0ab193-494a-43bd-8985-1f50bf3d6809"
+    ],
+    "source_domains": [
+      "www.businessinsider.com",
+      "www.masstransitmag.com"
+    ],
+    "article_count": 2
+  },
+  {
+    "story_id": "68cc057f-8a4d-42f0-a66f-de9680c5d108",
+    "canonical_title": "Tarrant County Issues First Fentanyl-Related Murder Indictment Under New Texas Law",
+    "summary": "A Tarrant County grand jury has issued the first murder indictment related to fentanyl distribution in the county, charging Jacob Lindsay with the death of Brandon Harrison under a new Texas law that holds drug suppliers accountable for overdose deaths.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Brandon Harrison",
+      "Jacob Lindsay",
+      "Tarrant County District Attorney's Office",
+      "Fort Worth Police",
+      "DEA"
+    ],
+    "suggested_category": "Substance Use & Opioids",
+    "first_seen_at": "2023-12-14T12:32:02+00:00",
+    "article_ids": [
+      "6ff9409d-0693-4dd8-a1c1-7bf12ecdccf0",
+      "018f40a7-de7d-4ee0-b9ae-89534bf12222",
+      "0bb8b0af-1758-49d1-bd78-392f50244d3b"
+    ],
+    "source_domains": [
+      "www.legalreader.com",
+      "www.nbcdfw.com",
+      "www.yahoo.com"
+    ],
+    "article_count": 3
+  },
+  {
+    "story_id": "a37486ae-a9ba-4144-bf47-10263e198733",
+    "canonical_title": "WHO Releases Mental Health and Psychosocial Support Minimum Service Package for Emergencies",
+    "summary": "The World Health Organization (WHO) has launched a new \"Mental Health and Psychosocial Support Minimum Service Package\" to provide guidance and resources for improving emergency mental health responses globally, addressing the growing demand in humanitarian crises.",
+    "sentiment": "positive",
+    "key_entities": [
+      "World Health Organization (WHO)"
+    ],
+    "suggested_category": "Public Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "4940dfad-9cde-49f0-832f-840b4c012519"
+    ],
+    "source_domains": [
+      "www.beckersbehavioralhealth.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "e9b8c99b-3971-4d32-a851-6abf50aaf672",
+    "canonical_title": "Federal MP Calls for Reinstatement of PACER Program to Address Lismore's Mental Health and Crime Issues",
+    "summary": "Federal Nationals Member for Page Kevin Hogan urges the NSW Government to reinstate the Police, Ambulance and Clinical Early Response (PACER) program in Lismore to address escalating crime and mental health issues that are making businesses and shoppers feel unsafe.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Kevin Hogan",
+      "NSW Government",
+      "Police, Ambulance and Clinical Early Response (PACER)"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "c156bf5f-aa3b-43fc-b377-42017439eda8"
+    ],
+    "source_domains": [
+      "www.nswnationals.org.au"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "df7d861c-d3b6-4492-871a-6e96b9e21fef",
+    "canonical_title": "Texas Gunman Devin Kelley Escaped Mental Health Facility After Military Base Weapons Incident Before Church Shooting",
+    "summary": "The gunman responsible for a Texas church shooting had previously escaped a mental health facility five years prior, after being caught smuggling weapons onto a military base and making death threats, raising questions about his background and the failure to enter his domestic violence conviction into the firearms background check system.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Devin Kelley",
+      "FBI",
+      "U.S. Air Force"
+    ],
+    "suggested_category": "Public Health",
+    "first_seen_at": "2017-11-07T00:00:00",
+    "article_ids": [
+      "570dbd29-8748-4751-9585-285da087c11f"
+    ],
+    "source_domains": [
+      "www.theguardian.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "efb41584-4661-4c62-8a97-e3b4d0791cd7",
+    "canonical_title": "Psychiatric Hospital Gravedigger Lawrence Mocha to Be Memorialized After Decades of Anonymity",
+    "summary": "A New York State psychiatric hospital has agreed to memorialize Lawrence Mocha, an immigrant who dug over 1,500 anonymous graves for patients, marking a step towards challenging the stigma and privacy concerns surrounding mental illness even after death.",
+    "sentiment": "positive",
+    "key_entities": [
+      "Lawrence Mocha",
+      "New York State Office of Mental Health"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2014-12-23T00:00:00",
+    "article_ids": [
+      "a9dfaa76-5237-4ef4-8606-7d2a81eb78d1"
+    ],
+    "source_domains": [
+      "www.nytimes.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "40c9750c-2b9f-42e8-8735-bfbd0255ae14",
+    "canonical_title": "Federal Judge Blocks DHS and HHS from Using Medicaid Data for Immigration Enforcement in 20 States",
+    "summary": "A federal judge has issued a preliminary injunction preventing the Department of Homeland Security (DHS) and Department of Health and Human Services (HHS) from using Medicaid data for immigration enforcement purposes in 20 states, citing concerns about compromised public health and states' healthcare costs.",
+    "sentiment": "neutral",
+    "key_entities": [
+      "Department of Homeland Security (DHS)",
+      "U.S. Immigration and Customs Enforcement (ICE)",
+      "Department of Health and Human Services (HHS)",
+      "Centers for Medicaid & Medicare Services (CMS)",
+      "U.S. District Judge Vince Chhabria",
+      "Donald Trump"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": "2025-08-18T10:35:00",
+    "article_ids": [
+      "cd4ac054-1cf9-4cca-b44d-c949c82fe304",
+      "a4e80245-3f4a-4f8a-b879-76631167d0de",
+      "b9f9efc5-a5a7-434b-90a7-d84c52499599",
+      "1f5da0ac-01de-4ffe-b51f-10865dfab12f"
+    ],
+    "source_domains": [
+      "wcti12.com",
+      "www.axios.com",
+      "www.healthcareitnews.com",
+      "www.hipaajournal.com"
+    ],
+    "article_count": 4
+  },
+  {
+    "story_id": "4cc0607c-0123-4120-b040-3309255fa37a",
+    "canonical_title": "Medicaid Cuts Under OBBBA Projected to Worsen U.S. Mental Health and Substance Use Crisis",
+    "summary": "A report warns that Medicaid cuts resulting from the \"One Big Beautiful Bill Act\" (OBBBA) will significantly reduce access to mental health and substance use services, exacerbate workforce shortages, and lead to negative health outcomes, including an increase in overdose deaths.",
+    "sentiment": "negative",
+    "key_entities": [
+      "One Big Beautiful Bill Act (OBBBA)",
+      "Medicaid",
+      "Affordable Care Act (ACA)"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "2e559f11-ac15-4ef7-ae54-c7eda9c177fd"
+    ],
+    "source_domains": [
+      "www.milbank.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "9938f660-2161-40fb-becb-6456eea324fe",
+    "canonical_title": "U.S. and Multinational Participants Visit Georgian Military Rehabilitation Center Supporting Ukrainian Families",
+    "summary": "U.S. and multinational military medical engagement participants visited the National Hero of Georgia Mariam (Maro) Makashvili Military Rehabilitation Center in Tbilisi, Georgia, observing its comprehensive physical and psychological services provided to injured military personnel, including Ukrainian soldiers and their families.",
+    "sentiment": "positive",
+    "key_entities": [
+      "U.S. Army",
+      "National Hero of Georgia Mariam (Maro) Makashvili Military Rehabilitation Center",
+      "Ukrainian families"
+    ],
+    "suggested_category": "Healthcare Services",
+    "first_seen_at": "2020-01-27T07:06:00+00:00",
+    "article_ids": [
+      "7abb90f3-6eb6-4102-b0b5-610db5f5befd",
+      "b6ae216c-2091-4275-a7d6-faaf2ddc7f36"
+    ],
+    "source_domains": [
+      "ge.usembassy.gov",
+      "www.army.mil"
+    ],
+    "article_count": 2
+  },
+  {
+    "story_id": "9121dd81-f3d9-48f8-b4c4-865c43616f87",
+    "canonical_title": "North Dakota Breaks Ground on New State Hospital to Modernize Behavioral Health Services",
+    "summary": "North Dakota is building a new $300 million State Hospital in Jamestown, increasing its bed capacity and modernizing behavioral health services with a focus on rehabilitation and patient well-being, expected to be operational by early 2028.",
+    "sentiment": "positive",
+    "key_entities": [
+      "Dr. Eduardo Yabut",
+      "Gov. Kelly Armstrong",
+      "Pam Sagness",
+      "Department of Health and Human Services"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "58360872-fd69-4f90-bddb-94c9aec4d895"
+    ],
+    "source_domains": [
+      "www.yahoo.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "1a0b23db-d19d-4a23-a955-40ba51aafe84",
+    "canonical_title": "Eloise Psychiatric Hospital's Complex History Explored Amidst Haunted House Transformation",
+    "summary": "The history of the former Eloise Psychiatric Hospital in Wayne County, Michigan, a once self-sufficient complex that pioneered medical treatments but also faced criticism, is being re-examined as one of its remaining buildings transforms into a haunted house attraction, sparking debate over preserving its nuanced legacy.",
+    "sentiment": "neutral",
+    "key_entities": [
+      "Wayne State University",
+      "University of Michigan",
+      "Friends of Eloise"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": "2022-10-28T20:20:02.822000+00:00",
+    "article_ids": [
+      "3d617b84-b09c-47ea-8ef2-158727e23757"
+    ],
+    "source_domains": [
+      "www.audacy.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "f37d0496-ae70-48ea-b03c-b5784464a6a3",
+    "canonical_title": "Louisiana Enacts New Laws Requiring State Agencies to Collect and Share Undocumented Migrant Data with ICE",
+    "summary": "Two new Louisiana laws mandate state agencies and higher education systems to collect and share data on undocumented migrants, including reporting ineligible benefit applicants to ICE, raising concerns that immigrant families will fear applying for public benefits even when eligible.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Louisiana State Legislature",
+      "ICE",
+      "Governor Jeff Landry",
+      "U.S. Department of Agriculture",
+      "Department of Health and Human Services (HHS)",
+      "Centers for Medicaid & Medicare Services (CMS)"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": null,
+    "article_ids": [
+      "f0a1086a-ad40-4ea3-b6f3-d2111af8b0c2"
+    ],
+    "source_domains": [
+      "thecurrentla.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "1b354f9e-191b-4b67-9821-cb9783a80129",
+    "canonical_title": "US HealthVest and OSF HealthCare Form Joint Venture to Build Largest Psychiatric Hospital in Downstate Illinois",
+    "summary": "US HealthVest and OSF HealthCare have formed a joint venture to construct a 100-bed inpatient psychiatric hospital in Peoria, Illinois, addressing the diminishing supply of psychiatric beds and increasing demand for behavioral health services.",
+    "sentiment": "positive",
+    "key_entities": [
+      "US HealthVest",
+      "OSF HealthCare System",
+      "Dr. Richard Kresch"
+    ],
+    "suggested_category": "Business & M&A",
+    "first_seen_at": "2022-10-07T00:00:00",
+    "article_ids": [
+      "cc0d5e5d-c293-48ea-a299-e7c243e143ad"
+    ],
+    "source_domains": [
+      "bhbusiness.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "f0c0d89d-4836-494e-9f1f-9cc04a35a2dd",
+    "canonical_title": "Study Reveals Strong Link Between Loneliness and Worse Mental and Physical Health Outcomes",
+    "summary": "A PLOS One study analyzing data from over 47,000 U.S. adults found that chronic loneliness is significantly associated with a higher likelihood of clinical depression and more frequent days of poor mental and physical health, highlighting the need for public health interventions.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Oluwasegun Akinyemi",
+      "PLOS One",
+      "Behavioral Risk Factor Surveillance System (BRFSS)"
+    ],
+    "suggested_category": "Research & Studies",
+    "first_seen_at": null,
+    "article_ids": [
+      "5b3ba501-f862-4fec-a72f-534202bc097f"
+    ],
+    "source_domains": [
+      "www.theravive.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "60a187eb-57f0-437d-8b70-927d03abf43f",
+    "canonical_title": "Georgia Fines Insurers $20 Million for Mental Health Parity Violations",
+    "summary": "Georgia has imposed $20 million in fines on health insurers for failing to comply with mental health parity laws, demonstrating a strong stance against violations that undermine access to behavioral health care.",
+    "sentiment": "neutral",
+    "key_entities": [
+      "Commissioner King",
+      "health insurers"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": null,
+    "article_ids": [
+      "86eaace6-cd71-4fdb-83cf-c05a9f53825e"
+    ],
+    "source_domains": [
+      "www.insurancebusinessmag.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "9005b9c3-98dd-45d7-ba2e-aaf69dace262",
+    "canonical_title": "Mary Jo Pugh Receives National Award for Research on Long-Term Consequences of Traumatic Brain Injury",
+    "summary": "Dr. Mary Jo Pugh received the National Outstanding Research Accomplishment Award for her work utilizing big data to uncover the long-term health consequences of traumatic brain injury (TBI), particularly for military service members, and integrating health data between the VA and Department of Defense.",
+    "sentiment": "positive",
+    "key_entities": [
+      "Mary Jo Pugh",
+      "Department of Veterans Affairs (VA)",
+      "Department of Defense (DoD)",
+      "Matthew Samore"
+    ],
+    "suggested_category": "Research & Studies",
+    "first_seen_at": "2025-08-18T15:43:36-06:00",
+    "article_ids": [
+      "f91f66fc-57ab-4c50-8801-b71c2c0cd2ac"
+    ],
+    "source_domains": [
+      "uofuhealth.utah.edu"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "643f6b88-9c08-4bee-832a-5ce0b249c959",
+    "canonical_title": "UK Health Sector Briefing Highlights Public-Private Funding for NHS, Data Platform Costs, and Public Health Achievements",
+    "summary": "The UK health sector is preparing to use public-private partnerships for NHS infrastructure, facing over £1 billion in costs for a national data platform, and celebrating milestones like 100,000 hepatitis C home tests and updated diabetes care guidelines.",
+    "sentiment": "neutral",
+    "key_entities": [
+      "NHS",
+      "Labour",
+      "Palantir",
+      "World Health Organization (WHO)",
+      "National Institute for Health and Care Excellence (NICE)"
+    ],
+    "suggested_category": "Healthcare Services",
+    "first_seen_at": null,
+    "article_ids": [
+      "8528c021-9e4a-459f-ac04-73ea806a1489"
+    ],
+    "source_domains": [
+      "www.nhsconfed.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "21a2abf6-b753-4bfc-b787-9c0f87912841",
+    "canonical_title": "Mercer County Man Sentenced to Nearly 16 Years for Fentanyl Trafficking",
+    "summary": "A Mercer County man has been sentenced to almost 16 years in federal prison for fentanyl trafficking, as part of ongoing efforts to combat the deadly drug epidemic.",
+    "sentiment": "neutral",
+    "key_entities": [],
+    "suggested_category": "Substance Use & Opioids",
+    "first_seen_at": null,
+    "article_ids": [
+      "6f3aea70-ca1a-4b30-8224-e1439edf94bd"
+    ],
+    "source_domains": [
+      "www.communitynews.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "65bf6a9f-1c4e-40c1-a490-123c49b43608",
+    "canonical_title": "Elemental Altus Royalties Corp. Reports Record Q2 Operating Cash Flow and Raised Revenue Guidance",
+    "summary": "Elemental Altus Royalties Corp. announced record financial results for Q2 2025, with adjusted revenue more than doubling and operating cash flow significantly increasing, leading to an updated and increased revenue guidance for the year.",
+    "sentiment": "positive",
+    "key_entities": [
+      "Elemental Altus Royalties Corp.",
+      "Frederick Bell"
+    ],
+    "suggested_category": "Business & M&A",
+    "first_seen_at": "2025-08-18T21:05:15+00:00",
+    "article_ids": [
+      "80e0b1e2-cf64-4e53-9ba0-c8fc8f7d0bfe"
+    ],
+    "source_domains": [
+      "www.cantechletter.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "461049f6-1736-441e-b07e-9558ab88a56e",
+    "canonical_title": "Senator Jacky Rosen Warns Against Devastating Impact of Republican Medicaid Cuts in Nevada",
+    "summary": "Senator Jacky Rosen criticized recent Republican-backed budget cuts to Medicaid, known as the \"One Big Beautiful Bill,\" warning they will significantly reduce healthcare access for over 100,000 Nevadans and severely impact state hospitals.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Senator Jacky Rosen",
+      "Northern Nevada HOPES",
+      "Republicans",
+      "Trump administration"
+    ],
+    "suggested_category": "Insurance & Coverage",
+    "first_seen_at": "2025-08-18T00:00:00",
+    "article_ids": [
+      "75b21616-3346-4601-b668-b1bfd34251a2",
+      "bcb90034-6c6b-42fa-9046-47b37fb6dfd9"
+    ],
+    "source_domains": [
+      "msindy.org",
+      "www.rosen.senate.gov"
+    ],
+    "article_count": 2
+  },
+  {
+    "story_id": "2b9d9895-3e0a-416d-b3a7-199fff6542db",
+    "canonical_title": "Johns Hopkins Researchers Highlight U.S. Gun Suicide Epidemic and Propose Prevention Strategies",
+    "summary": "Johns Hopkins University researchers and Dubuque County Sheriff Joe Kennedy warn of a gun suicide epidemic in the U.S., advocating for measures like \"red flag laws\" and improved access to mental health resources to save lives.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Johns Hopkins University",
+      "Dubuque County Sheriff Joe Kennedy",
+      "Paul Nestadt",
+      "National Crisis Lifeline"
+    ],
+    "suggested_category": "Public Health",
+    "first_seen_at": "2025-08-18T00:00:00",
+    "article_ids": [
+      "c9bb412a-f4b8-4199-84fe-46a1ff80e850"
+    ],
+    "source_domains": [
+      "www.kcrg.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "c2472b98-752c-42b3-a0f7-a97993fa654e",
+    "canonical_title": "Minnesota Sues TikTok Over Allegations of Addictive Algorithms Harming Youth Mental Health",
+    "summary": "Minnesota has filed a lawsuit against TikTok, alleging the social media platform's addictive algorithms exploit young users and contribute to a surge in depression, anxiety, and other mental health struggles among students.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Minnesota",
+      "TikTok",
+      "Attorney General Keith Ellison"
+    ],
+    "suggested_category": "Social Media",
+    "first_seen_at": "2025-08-20T00:00:00",
+    "article_ids": [
+      "e6d07d35-b410-43e4-87ea-71b65dbf9462"
+    ],
+    "source_domains": [
+      "www.indiatoday.in"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "cdf00692-8609-4c2a-9e13-a259aad12ca8",
+    "canonical_title": "Noble Mineral Exploration Inc. Reports Homeland Nickel Exploration Updates and Property Acquisitions",
+    "summary": "Noble Mineral Exploration Inc. announced updates on its significant shareholding in Homeland Nickel, which has received approval for its Red Flat Nickel Laterite Project drill program and staked new mining claims at Woodcock Mountain in Southern Oregon.",
+    "sentiment": "positive",
+    "key_entities": [
+      "Noble Mineral Exploration Inc.",
+      "Homeland Nickel Inc.",
+      "Steve Balch"
+    ],
+    "suggested_category": "Business & M&A",
+    "first_seen_at": "2025-08-18T00:00:00",
+    "article_ids": [
+      "0191e714-ed93-47b5-87cf-8544931553ee"
+    ],
+    "source_domains": [
+      "www.tradingview.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "061632fd-e486-4aed-b07d-e72cf4d6ce08",
+    "canonical_title": "Michigan's Rural Communities Innovate to Address Unique Mental Health Care Challenges",
+    "summary": "Community mental health agencies in rural Michigan, like Sanilac County CMH, are developing tailored, community-based solutions to overcome challenges in accessing mental health care, such as transportation issues, loneliness, and limited group therapy options.",
+    "sentiment": "positive",
+    "key_entities": [
+      "Sanilac County Community Mental Health (CMH)",
+      "Will Morris"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "acf48bdc-c2ed-48c8-9778-fc6e42aad880"
+    ],
+    "source_domains": [
+      "concentratemedia.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "5c1ddb2e-2577-4ab0-bc15-aa998ded4cf6",
+    "canonical_title": "Jasveen Sangha, 'Ketamine Queen,' Pleads Guilty in Matthew Perry Overdose Case",
+    "summary": "Jasveen Sangha, dubbed \"Ketamine Queen,\" plans to plead guilty to charges including distributing ketamine resulting in death, in connection with Matthew Perry's overdose, shedding light on a Hollywood drug network.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Jasveen Sangha",
+      "Matthew Perry",
+      "U.S. Drug Enforcement Administration (DEA)",
+      "Justice Department"
+    ],
+    "suggested_category": "Substance Use & Opioids",
+    "first_seen_at": null,
+    "article_ids": [
+      "6d8742e5-74e7-4a78-bff3-68df668f6146"
+    ],
+    "source_domains": [
+      "www.bbc.co.uk"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "5580f091-df2e-4057-9e7d-438432173446",
+    "canonical_title": "Federal Railroad Administration Announces Over $14 Billion in Passenger Rail Grants for U.S. Projects",
+    "summary": "The Federal Railroad Administration has unveiled over $14 billion in grants, funded by the Bipartisan Infrastructure Law, for 10 construction-ready passenger rail projects and 69 corridors for future development across the U.S., aiming to enhance high-speed and conventional rail services.",
+    "sentiment": "positive",
+    "key_entities": [
+      "Federal Railroad Administration (FRA)",
+      "President Joe Biden",
+      "Amtrak",
+      "Brightline"
+    ],
+    "suggested_category": "Technology & Innovation",
+    "first_seen_at": null,
+    "article_ids": [
+      "f0863886-c7b2-45a7-8791-21f25508ebc8"
+    ],
+    "source_domains": [
+      "railfan.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "3f351986-71ec-497d-9307-60b2d2ad4291",
+    "canonical_title": "Security Guard Killed in Shooting at New Hampshire Psychiatric Hospital",
+    "summary": "A security guard was killed and the armed suspect was shot dead by an officer during a shooting in the lobby of a psychiatric hospital in New Hampshire, with authorities confirming the situation was contained and all patients and staff were safe.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Bradley Haas",
+      "New Hampshire Department of Health and Human Services"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "f4282ea1-f8af-4fef-8acc-5af1dc55a4a7",
+      "65994713-b2d7-4343-83c1-2cc5de3d400e"
+    ],
+    "source_domains": [
+      "news.sky.com",
+      "www.bbc.co.uk"
+    ],
+    "article_count": 2
+  },
+  {
+    "story_id": "9b22f5d6-ea0e-4da3-9617-5bd34afaaca5",
+    "canonical_title": "Morgan Geyser, Slender Man Stabbing Assailant, Approved for Release from Psychiatric Hospital",
+    "summary": "A Wisconsin judge has approved the release of Morgan Geyser, who at age 12 stabbed a classmate to please \"Slender Man,\" from a psychiatric hospital after nearly seven years, following expert testimony that she has made significant progress in battling mental illness.",
+    "sentiment": "neutral",
+    "key_entities": [
+      "Morgan Geyser",
+      "Payton Leutner",
+      "Judge Michael Bohren",
+      "Anissa Weier"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2025-01-10T00:00:00",
+    "article_ids": [
+      "c4bce50b-882b-44d0-aacf-ed8f7a209a2b"
+    ],
+    "source_domains": [
+      "www.cnn.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "91452192-db13-4f7f-9afd-d17a2d935657",
+    "canonical_title": "Mason County Launches Digital Mental Health Pilot with United We Care to Expand Access in Underserved Areas",
+    "summary": "Mason County, Washington, has partnered with United We Care to launch a digital mental health pilot program offering 24/7 access to an AI-powered companion and other virtual services, aiming to expand mental health support in rural, underserved communities.",
+    "sentiment": "positive",
+    "key_entities": [
+      "Mason County",
+      "United We Care",
+      "Stella"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "51071492-dad6-421a-9638-4399ca592343"
+    ],
+    "source_domains": [
+      "www.beckersbehavioralhealth.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "a10e6ffe-dc2f-46b0-9e08-0011f7c88cc8",
+    "canonical_title": "Mouser Electronics Implements Energy-Efficient PoE Lighting in Dallas-Fort Worth Distribution Center Expansion",
+    "summary": "Mouser Electronics is integrating a Power over Ethernet (PoE) lighting system into its Dallas-Fort Worth distribution center expansion to enhance efficiency and sustainability, reducing its carbon footprint while supporting 24/7 operations.",
+    "sentiment": "positive",
+    "key_entities": [
+      "Mouser Electronics",
+      "Berkshire Hathaway"
+    ],
+    "suggested_category": "Technology & Innovation",
+    "first_seen_at": null,
+    "article_ids": [
+      "b0ab22b7-7374-4263-8c41-89607813e44d"
+    ],
+    "source_domains": [
+      "www.buildings.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "cfe95edb-5d82-4946-927e-d1d8e5401540",
+    "canonical_title": "Virginia Governor Youngkin Praises State's Thriving Economy, While Democrats Criticize Medicaid Cuts",
+    "summary": "Virginia Governor Glenn Youngkin reported a state budget surplus and economic growth, but Democrats criticized his assessment, highlighting the looming impact of federal Medicaid work requirements on vulnerable residents.",
+    "sentiment": "neutral",
+    "key_entities": [
+      "Governor Glenn Youngkin",
+      "Stephen Cummings",
+      "Scott Surovell",
+      "Terry Kilgore",
+      "Congressional Budget Office (CBO)"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": "2025-08-18T00:00:00",
+    "article_ids": [
+      "994664a5-a0a2-4a47-a935-6e2f5f049bf9"
+    ],
+    "source_domains": [
+      "www.arlnow.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "09281ae8-19d8-4ad3-8a74-ed17429efb80",
+    "canonical_title": "Tampa Bay Airports Explore Partnership and Transit Connections to Manage Future Passenger Growth",
+    "summary": "Tampa International Airport and St. Pete-Clearwater International Airport are considering a strategic partnership and new transit connections, potentially including high-speed rail, to accommodate projected passenger growth and alleviate traffic congestion in the Tampa Bay region.",
+    "sentiment": "positive",
+    "key_entities": [
+      "Harry Cohen",
+      "Tampa International Airport (TPA)",
+      "St. Pete-Clearwater International Airport",
+      "Brightline"
+    ],
+    "suggested_category": "Business & M&A",
+    "first_seen_at": "2025-07-30T12:38:23-05:00",
+    "article_ids": [
+      "1ec5ec16-f837-41d5-8f13-d19b4daa653f"
+    ],
+    "source_domains": [
+      "stpetecatalyst.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "9bba3231-37d0-434e-aced-ef1834b68c61",
+    "canonical_title": "Orange County Department of Education Hosts Summit to Boost School-Based Mental Health Services",
+    "summary": "The Orange County Department of Education hosted its third annual School-Based Mental Health Summit, bringing together hundreds of professionals to share strategies and tools for supporting student wellness and emphasizing mental health as an essential component of education.",
+    "sentiment": "positive",
+    "key_entities": [
+      "Orange County Department of Education (OCDE)",
+      "Dr. Stefan Bean",
+      "Dr. Brian Dinkins"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "845ce8f8-a8b6-484b-88e2-fd30cf4df430"
+    ],
+    "source_domains": [
+      "newsroom.ocde.us"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "67ac90d6-ca3e-4f53-a694-4688a1c5f094",
+    "canonical_title": "Rockland Psychiatric Center Workers Felt Exposed During Early COVID-19 Outbreak",
+    "summary": "Workers at Rockland Psychiatric Center in New York reported frustration and concerns about inadequate protective gear, patient transfers, and difficulties with social distancing during the early stages of the COVID-19 pandemic, leading to a significant number of patient and staff deaths.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Rockland Psychiatric Center"
+    ],
+    "suggested_category": "Public Health",
+    "first_seen_at": "2020-04-24T00:00:00",
+    "article_ids": [
+      "cf91b201-a28d-48ce-b4f8-c637982824a1"
+    ],
+    "source_domains": [
+      "www.nytimes.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "b15d7b00-1bf4-4e01-ada0-7cf3a6a46c3f",
+    "canonical_title": "Afghan Women Trapped in Mental Health System Due to Societal Restrictions and Lack of Support",
+    "summary": "Many Afghan women are indefinitely trapped in mental health facilities like Qala due to domestic violence and societal restrictions, unable to live independently or access external support amidst a worsening mental health crisis under Taliban rule.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Afghan Red Crescent Society (ARCS)",
+      "Mariam",
+      "Habiba",
+      "Taliban government"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "b58183be-468a-4cea-b45c-37c1c70a88f8"
+    ],
+    "source_domains": [
+      "www.bbc.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "e63e439a-b6fa-45db-8acb-e4707bf73e00",
+    "canonical_title": "Fort Worth Appoints Robert Sturns as Economic Development Director in City Leadership Updates",
+    "summary": "Robert Sturns has been named Fort Worth's new economic development director, among other key appointments and awards in the city's banking, organizations, engineering, government, and technology sectors.",
+    "sentiment": "positive",
+    "key_entities": [
+      "Robert Sturns",
+      "Fort Worth City Government",
+      "Rhodes Securities Inc.",
+      "Texas Music Educators Association",
+      "U.S. Securities and Exchange Commission"
+    ],
+    "suggested_category": "Business & M&A",
+    "first_seen_at": "2016-02-19T16:11:00",
+    "article_ids": [
+      "59bc1689-5e02-4760-a4d6-1188455b553c"
+    ],
+    "source_domains": [
+      "fortworthbusiness.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "3b1c021d-c429-4923-b0cb-aee309c0bf4e",
+    "canonical_title": "Emergency Responders Search for Man Experiencing Chest Pain After Drug Withdrawal in Alamosa, CO",
+    "summary": "Emergency services in Alamosa, Colorado, were dispatched to locate an individual experiencing chest pain following drug withdrawal, highlighting a localized medical incident requiring immediate attention.",
+    "sentiment": "negative",
+    "key_entities": [
+      "Alamosa PD",
+      "SLV Fire EMS",
+      "State Patrol"
+    ],
+    "suggested_category": "Substance Use & Opioids",
+    "first_seen_at": null,
+    "article_ids": [
+      "852e3371-d37f-41d9-a1f8-1b389652ecba"
+    ],
+    "source_domains": [
+      "www.newsbreak.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "8c41ecd0-7175-4759-aa13-c9a8334691da",
+    "canonical_title": "GOP lawmaker cashed out health investments while backing Trump’s $1 trillion Medicaid cuts",
+    "summary": "Rep. Rob Bresnahan is under scrutiny for selling healthcare-related investments while simultaneously voting to approve $1 trillion in Medicaid cuts, which critics argue is a conflict of interest that could harm Pennsylvania hospitals and residents.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Rep. Rob Bresnahan Jr.",
+      "Donald Trump",
+      "Centene Corporation",
+      "University of Pittsburgh Medical Center",
+      "Leor Tal",
+      "Unrig the Economy",
+      "Eli Cousin",
+      "Democratic Congressional Campaign Committee",
+      "Paige Cognetti",
+      "NRDC Action Fund"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": "2025-08-19T00:00:00",
+    "article_ids": [
+      "9e998ce6-3e43-4719-a0a8-677d3c2037a3"
+    ],
+    "source_domains": [
+      "www.nationofchange.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "156639bd-a993-4f56-87e5-d8e025f01ba4",
+    "canonical_title": "Nine-year-olds sent to US psychiatric hospital",
+    "summary": "Children as young as nine from Bermuda have been sent to the University of Utah's Neuropsychiatric Institute for clinical assessments and treatment due to a lack of local services.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "University of Utah’s Neuropsychiatric Institute",
+      "Bermuda's Department of Child and Family Services",
+      "Kim Wilson",
+      "Kathy Lynn Simmons"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2019-12-10T00:00:00",
+    "article_ids": [
+      "34a26af2-b9de-492d-b6eb-c9611a100c6a"
+    ],
+    "source_domains": [
+      "www.royalgazette.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "748f4efc-6ebc-4bbc-b75a-ec8950154e62",
+    "canonical_title": "Newsmakers: Lockwood named interim dean at TCU’s Harris College",
+    "summary": "Suzy Lockwood has been named interim dean of TCU's Harris College of Nursing & Health Sciences, following Susan Mace Weeks' appointment as vice provost at Texas Christian University.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Suzy Lockwood",
+      "Susan Mace Weeks",
+      "Texas Christian University",
+      "Harris College of Nursing & Health Sciences",
+      "Balcom Agency",
+      "Cornelius Boone",
+      "American Airlines",
+      "Baird, Hampton & Brown Inc.",
+      "James Naylor",
+      "Freese and Nichols Inc.",
+      "Lasco Enterprises",
+      "Brandi Key",
+      "Gov. Greg Abbott",
+      "OneStar National Service Commission",
+      "Slack & Davis LLP",
+      "Ladd Sanger",
+      "Slack Davis Sanger LLP",
+      "Angélique M. McCall",
+      "Brackett & Ellis",
+      "Jay B. Newton",
+      "Bourland, Wall & Wenzel PC",
+      "Graig Fancher",
+      "North Texas Community Foundation",
+      "Alfred Saenz",
+      "Ralph D. Heath",
+      "Stewart Alcorn",
+      "Anne Holland",
+      "Daniel H. McCarthy",
+      "James B. DeMoss",
+      "Phillip W. McCrury",
+      "Cindy Adams",
+      "Michael Appleman",
+      "Erika Beltran",
+      "Joseph DeLeon",
+      "Elizabeth Fleischer",
+      "Buddy Puente",
+      "William Slater",
+      "Mark Walton",
+      "Chris Huckabee",
+      "Jeff Alexander",
+      "Tom Cravens",
+      "Allen Hodges",
+      "Leland Hodges",
+      "Bill Landreth Jr.",
+      "Garland Lasater",
+      "Ann Louden",
+      "Nick Martin"
+    ],
+    "suggested_category": "Healthcare Services",
+    "first_seen_at": "2018-04-06T15:14:00",
+    "article_ids": [
+      "bcadf015-3d22-4048-b28d-4b8f284cb29b"
+    ],
+    "source_domains": [
+      "fortworthbusiness.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "9583c526-e30d-46b8-88f7-2eceb04beebb",
+    "canonical_title": "Sheppard Pratt Health System Named a Top Ten Psychiatric Hospital by U.S. News & World Report",
+    "summary": "Sheppard Pratt Health System has been recognized as one of the nation's top ten psychiatric hospitals by U.S. News & World Report for nearly 30 years, highlighting its comprehensive behavioral health care services.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Sheppard Pratt Health System",
+      "U.S. News & World Report",
+      "Harsh K. Trivedi"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "05603c31-a4dd-43c1-877d-710b8aa3d773"
+    ],
+    "source_domains": [
+      "www.prnewswire.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "0e20ef08-40dd-4ec0-b477-58efdefa1282",
+    "canonical_title": "Man threatens self in Clovis mental health crisis, Clovis CA",
+    "summary": "Police responded to a report of a male experiencing a mental health crisis inside a Taco Bell in Clovis, California, who was also subject to drug violation warrants.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Police",
+      "EMS"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "ab8b0e1a-14fb-4d45-9f29-a062196e4b3b"
+    ],
+    "source_domains": [
+      "www.newsbreak.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "18ef15d4-1b5e-46b3-858e-a363252b1cf3",
+    "canonical_title": "US probes Meta and Character.AI over child safety, mental health claims",
+    "summary": "Storyboard18 reports on US probes into Meta and Character.AI concerning child safety and mental health implications of their platforms.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Meta",
+      "Character.AI",
+      "Storyboard18"
+    ],
+    "suggested_category": "Social Media",
+    "first_seen_at": null,
+    "article_ids": [
+      "4e554197-0d4c-4ece-b3ff-77064a4fad5b"
+    ],
+    "source_domains": [
+      "www.storyboard18.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "5fbeeb35-cda9-43b5-8dd5-03f5741bdbe6",
+    "canonical_title": "Foundation help us celebrate World Cerebral Palsy Day",
+    "summary": "Leeds United Foundation is celebrating World Cerebral Palsy Day by giving young members of its pan-disability team, who live with cerebral palsy, the opportunity to be club mascots.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Leeds United",
+      "Leeds United Foundation",
+      "Simon Wood",
+      "Luke Harrison"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": null,
+    "article_ids": [
+      "6d361537-d19c-49a2-8bc6-0ba6cb78ff1e"
+    ],
+    "source_domains": [
+      "www.leedsunited.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "4dac95b1-6719-4660-a4db-4826c06d788c",
+    "canonical_title": "Dangerous Hawaii psychiatric hospital inmate Randall Saito recaptured in California",
+    "summary": "Randall Saito, an inmate acquitted of murder by reason of insanity, was recaptured in California without incident after escaping from a Hawaii psychiatric hospital.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Randall Saito",
+      "San Joaquin Sheriff",
+      "Dave Konecny",
+      "Hawaii State Hospital"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2017-11-16T11:16:00+00:00",
+    "article_ids": [
+      "85542fb2-f2a8-4413-8458-b00984a0e4de"
+    ],
+    "source_domains": [
+      "www.nbcnews.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "13bbb6aa-4f1b-4a41-a3c4-6c8c9cf9e566",
+    "canonical_title": "Civil Forfeiture Case Reveals B.C. Fentanyl Network Tied to Chinese Precursor Shift",
+    "summary": "A civil forfeiture case in British Columbia has uncovered extraordinary details about a clandestine fentanyl production network linked to a shift in Chinese precursor chemical supply.",
+    "sentiment": "Negative",
+    "key_entities": [],
+    "suggested_category": "Substance Use & Opioids",
+    "first_seen_at": null,
+    "article_ids": [
+      "2ec1d6ca-dd08-4f50-8659-fa41caa385ed"
+    ],
+    "source_domains": [
+      "www.thebureau.news"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "83e0c946-a7c1-451d-8011-2189613e884f",
+    "canonical_title": "$47B: Employees' mental health struggles costly for economy, employers",
+    "summary": "Employee mental health struggles cost the economy billions annually, with many workers not utilizing available assistance programs due to stigma and confidentiality concerns, prompting calls for employers to cultivate more supportive cultures.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Prudential Financial Inc.",
+      "Gallup",
+      "Michael Estep",
+      "Prudential Group Insurance"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2025-08-18T00:00:00",
+    "article_ids": [
+      "674724fb-3481-4f54-8eb0-255a41082ac0"
+    ],
+    "source_domains": [
+      "www.benefitspro.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "4211eb7a-fcd0-4f1a-8cb5-71dfa9ed39b9",
+    "canonical_title": "Trump’s Rollback of Rules for Mental Health Coverage Could Lead More Americans to Go Without Care",
+    "summary": "The Trump administration's pause on new rules designed to strengthen mental health parity and cuts to enforcement funding could result in more Americans losing access to mental health care coverage.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Donald Trump",
+      "Joe Biden",
+      "Ali Khawar",
+      "ERISA Industry Committee",
+      "James Gelfand",
+      "Employee Benefits Security Administration",
+      "Congress",
+      "ProPublica"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": null,
+    "article_ids": [
+      "8915b861-f430-41be-9d24-1c9530364c85"
+    ],
+    "source_domains": [
+      "www.propublica.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "53868f41-77ac-47cc-8407-8be7babdee99",
+    "canonical_title": "Why gambling addiction is America’s next health crisis.",
+    "summary": "An addiction medicine physician warns that the legalization of online sports betting is fueling a pervasive gambling addiction crisis, especially among youth, which lacks sufficient research and public health infrastructure compared to substance use disorders.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Safina Adatia",
+      "Kevin Pho",
+      "Supreme Court"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "e1d8936c-e10e-416d-919e-cb6ca4b79af7"
+    ],
+    "source_domains": [
+      "kevinmd.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "f8a7b924-6b6e-4464-bbf6-108a2b4e5da4",
+    "canonical_title": "Delaware County Celebrates New Leash on Life Graduation at George W. Hill Correctional Facility",
+    "summary": "Delaware County celebrates the graduation of the \"New Leash on Life USA\" program at its correctional facility, which pairs inmates with shelter dogs for training, life skills, and reentry services to reduce recidivism.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Delaware County",
+      "George W. Hill Correctional Facility",
+      "Laura Williams",
+      "Kelly Shaw",
+      "New Leash on Life USA",
+      "Marian Marchese",
+      "Congresswoman Scanlon",
+      "Kevin Madden"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": null,
+    "article_ids": [
+      "f48ab367-4307-4e92-ac08-e25bf1278ab4"
+    ],
+    "source_domains": [
+      "www.delcopa.gov"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "8c238897-c8d7-4df0-891c-578ae7f69776",
+    "canonical_title": "The University of Colorado Denver has launched a training program to prepare mental health providers to use “psychedelic-facilitation skills” in various clinical settings.",
+    "summary": "The University of Colorado Denver has launched a 16-week training program to prepare mental health providers for using psychedelic-facilitation skills in clinical settings.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "University of Colorado Denver"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "b0e3c8a3-e345-4545-aa7f-a767800e931a"
+    ],
+    "source_domains": [
+      "www.beckersbehavioralhealth.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "ee70ffad-7583-4dfa-95e4-810f134676ed",
+    "canonical_title": "Looming uninsured surge may overwhelm ERs. Here’s who can help.",
+    "summary": "A projected surge in uninsured patients could overwhelm hospital emergency departments, driving up treatment costs, and necessitating strategies to mitigate this impact.",
+    "sentiment": "Negative",
+    "key_entities": [],
+    "suggested_category": "Insurance & Coverage",
+    "first_seen_at": "2025-08-18T10:00:00+00:00",
+    "article_ids": [
+      "249615da-5f28-4538-acf8-11754a30f3ac"
+    ],
+    "source_domains": [
+      "www.modernhealthcare.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "bfe203f0-5e78-4cc0-b57e-44e4f57871a5",
+    "canonical_title": "Investigating barriers to menopause care for Medicaid patients",
+    "summary": "A Penn student's \"secret shopper\" study is investigating barriers Medicaid patients face in accessing specialized menopause care providers, highlighting disparities in hormone replacement therapy and administrative burdens.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Eri Maeda",
+      "Arina Chesnokova",
+      "Penn",
+      "Perelman School of Medicine",
+      "Menopause Society Certified Providers"
+    ],
+    "suggested_category": "Insurance & Coverage",
+    "first_seen_at": null,
+    "article_ids": [
+      "1dba78f6-23d3-4f84-a800-6e3e4d54fda7"
+    ],
+    "source_domains": [
+      "penntoday.upenn.edu"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "fb2675c0-66a0-43ce-bb24-dfd35257cb71",
+    "canonical_title": "Deal of the year",
+    "summary": "The Bond Buyer's Deal of the Year awards will celebrate outstanding achievements in municipal finance and present the Freda Johnson Awards for Trailblazing Women in Public Finance.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "The Bond Buyer",
+      "Freda Johnson"
+    ],
+    "suggested_category": "Business & M&A",
+    "first_seen_at": null,
+    "article_ids": [
+      "b1f56a86-fe74-4c38-8740-62a62e74fb6b"
+    ],
+    "source_domains": [
+      "www.bondbuyer.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "f95bb8d3-51cf-4d52-965a-0f7da9c5614e",
+    "canonical_title": "What Life Is Like for the 'Criminally Insane' at a Maximum-Security Psychiatric Hospital",
+    "summary": "A book offers an insider's view into the grim, monotonous daily life of patients deemed \"criminally insane\" at a maximum-security forensic psychiatric hospital, highlighting the indefinite nature of their confinement and the challenges of mental health treatment in such settings.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Mikita Brottman",
+      "Brian Bechtold",
+      "Clifton T. Perkins Hospital Center"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "a6d711fc-3a8d-4d34-b726-1711a253df75"
+    ],
+    "source_domains": [
+      "www.aetv.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "04a1f001-585e-4db1-9d33-ebb555d1dba4",
+    "canonical_title": "Behavioral Rehabilitation Center",
+    "summary": "The ASPCA Behavioral Rehabilitation Center offers specialized behavioral rehabilitation for severely fearful dogs rescued from situations like puppy mills and hoarding, aiming to prepare them for adoption and educate shelter professionals.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "ASPCA Behavioral Rehabilitation Center",
+      "Cruelty Recovery Center",
+      "Recovery & Rehabilitation Center"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": null,
+    "article_ids": [
+      "af22d31f-3181-4b53-9d95-a2cb16f2da48"
+    ],
+    "source_domains": [
+      "www.aspca.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "9eed2258-05fa-4c77-9c85-358e671b89c3",
+    "canonical_title": "US Labor Department sues Towson Rehabilitation Center in Maryland and owner to restore employees’ 401(k) contributions",
+    "summary": "The U.S. Department of Labor has sued Towson Rehabilitation Center and its CEO for failing to remit employee 401(k) contributions, violating ERISA.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "U.S. Department of Labor",
+      "Towson Rehabilitation Center LLC",
+      "Howard Neels",
+      "Employee Benefits Security Administration",
+      "Norman Jackson"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": null,
+    "article_ids": [
+      "eca9960d-6292-4377-9ea9-596a6fa0629f"
+    ],
+    "source_domains": [
+      "www.dol.gov"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "19471a6a-11c8-4813-8a24-c7a39abca7af",
+    "canonical_title": "More Than 600 Protests Planned Across The U.S. To “Stop The Corruption Of The Trump Administration, Protect And Defend Medicaid, Social Security And Other Programs For Working People.”",
+    "summary": "Over 600 protests are planned across the U.S. for Labor Day, backed by labor federations and coalitions, to oppose the Trump administration's policies, particularly cuts to Medicaid, Social Security, and other programs.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "National AFL-CIO",
+      "Liz Shuler",
+      "American Federation of Teachers",
+      "Randi Weingarten",
+      "Chicago Federation of Labor",
+      "Rob Reiter",
+      "May Day Strong",
+      "Indivisible",
+      "No Kings Day",
+      "Donald Trump",
+      "Reverend Al Sharpton",
+      "National Action Network"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": "2025-08-19T00:00:00",
+    "article_ids": [
+      "04c55e27-e77c-4910-ae28-8488cbfe89ba"
+    ],
+    "source_domains": [
+      "www.wnylabortoday.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "c1aa5a03-5b79-4ee8-aa82-4eae0d867c32",
+    "canonical_title": "An Innocent Name for a Deadly Drug",
+    "summary": "A deadly mixture of black tar heroin and over-the-counter sedatives, known as \"cheese,\" is responsible for multiple teen overdose deaths in the Dallas-Fort Worth area, targeting young school children due to its low cost and ease of use.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Sgt. Jeremy Liebbe"
+    ],
+    "suggested_category": "Substance Use & Opioids",
+    "first_seen_at": null,
+    "article_ids": [
+      "8bc81b6f-9c55-479a-8252-20d79e2e0547"
+    ],
+    "source_domains": [
+      "abcnews.go.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "11363831-f49c-44d6-8343-bd55e0b3aeb3",
+    "canonical_title": "Major hospital system hit with cyberattack, potentially largest in U.S. history",
+    "summary": "Universal Health Services, a major U.S. hospital system, was hit by a widespread ransomware cyberattack, disrupting operations and forcing medical staff to use manual documentation.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Universal Health Services",
+      "Kenneth White",
+      "WannaCry",
+      "Ryuk",
+      "MU Health Care",
+      "Oaklawn Hospital",
+      "eResearchTechnology"
+    ],
+    "suggested_category": "Technology & Innovation",
+    "first_seen_at": "2020-09-28T20:04:57+00:00",
+    "article_ids": [
+      "abdb5dea-3078-474b-add1-d4abfd6ccf6d",
+      "55fbbd39-1058-4d0c-9a25-bd2961b813a5"
+    ],
+    "source_domains": [
+      "www.nbcnews.com",
+      "www.techtarget.com"
+    ],
+    "article_count": 2
+  },
+  {
+    "story_id": "3fe83768-d20e-4a42-8001-bb3fb2c864fe",
+    "canonical_title": "Blended Health enters behavioral health space through multi-company acquisition and merger in Texas and Tennessee",
+    "summary": "Blended Health, a new platform company backed by Summit Partners, has launched through the merger and acquisition of Connections Wellness Group, Integrated Addiction Care, and Vertava Health of Tennessee, aiming to expand access to behavioral and mental health services.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Blended Health",
+      "Connections Wellness Group",
+      "Integrated Addiction Care",
+      "Vertava Health of Tennessee",
+      "Summit Partners",
+      "Matt Morgan",
+      "Awstin Gregg"
+    ],
+    "suggested_category": "Business & M&A",
+    "first_seen_at": "2024-02-07T00:00:00",
+    "article_ids": [
+      "df246557-a058-48de-96a1-448ee670792e"
+    ],
+    "source_domains": [
+      "www.globenewswire.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "7eb37269-66c8-457b-97cf-8bf3d14c33a0",
+    "canonical_title": "TVM Capital Healthcare Exits Cambridge Medical and Rehabilitation Center for US$ 232 Million, a 4.6x Return on Capital Invested",
+    "summary": "TVM Capital Healthcare successfully exited its investment in Cambridge Medical and Rehabilitation Center, a leading post-acute care and rehabilitation provider, generating a significant return on investment.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "TVM Capital Healthcare",
+      "Cambridge Medical and Rehabilitation Center",
+      "Amanat Holdings PJSC",
+      "ProVita International Medical Center",
+      "Dr. Helmut Schuehsler",
+      "Hoda Abou-Jamra",
+      "Carl Stanifer",
+      "Spaulding Rehabilitation Network"
+    ],
+    "suggested_category": "Business & M&A",
+    "first_seen_at": null,
+    "article_ids": [
+      "a9d37efe-f0d7-469d-b64d-e09c4fd97e8a"
+    ],
+    "source_domains": [
+      "www.prnewswire.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "164a291a-7f49-44fd-928e-ad7ff8d8becf",
+    "canonical_title": "True Chronicles of the Blida Joinville Psychiatric Hospital in the Last Century, when Dr Frantz Fanon Was Head of the Fifth Ward between 1953 and 1956 – review",
+    "summary": "This film review recounts the tenure of Dr. Frantz Fanon at a psychiatric hospital in Algeria, highlighting his revolutionary human-centered approaches that challenged racist and antiquated practices in colonial psychiatry.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Dr Frantz Fanon",
+      "Abdenour Zahzah",
+      "Alexandre Desane"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2024-11-05T00:00:00",
+    "article_ids": [
+      "1d561636-cc3a-4d6f-8063-1ff8bbce6393"
+    ],
+    "source_domains": [
+      "www.theguardian.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "aabda6f0-3cdc-4fbc-b5e5-5321e5b476f1",
+    "canonical_title": "Governor Hochul Joins U.S. Representative Ritchie Torres to Warn of Crippling Effects of Republicans’ ‘Big Ugly Bill’",
+    "summary": "New York officials, including Governor Hochul and Representative Torres, are warning about the devastating impact of the Republican-backed \"Big Ugly Bill\" on New Yorkers, citing cuts to health care, SNAP benefits, and potential hospital closures.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Governor Kathy Hochul",
+      "U.S. Representative Ritchie Torres",
+      "Dr. James McDonald",
+      "State Senator Luis R. Sepúlveda",
+      "State Senator Robert Jackson",
+      "State Senator Nathalia Fernandez",
+      "Assemblymember Jeffrey Dinowitz",
+      "Assemblymember Yudelka Tapia",
+      "Assemblymember George Alvarez",
+      "Assemblymember Landon Dais",
+      "Assemblymember Emérita Torres",
+      "Bronx Borough President Vanessa L. Gibson",
+      "Sherly Demosthenes-Atkinson",
+      "Council Member Kevin C. Riley",
+      "Donald Trump"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": null,
+    "article_ids": [
+      "2935d67a-edb8-42cc-a694-b495c21084e6"
+    ],
+    "source_domains": [
+      "www.governor.ny.gov"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "9bea29c4-3d07-4be5-8453-d068e60afc81",
+    "canonical_title": "Former psychiatric hospital in northwest neighborhood to house education initiative",
+    "summary": "A former psychiatric hospital building near Marian University in Indianapolis will be repurposed to house the university's Riverside Education Innovation District initiative, focusing on K-12 outreach, adult education, and community partnerships.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Marian University",
+      "Cold Spring Innovation Corporation",
+      "Lee Ann Kwiatkowski",
+      "Diane Wade",
+      "Lilly Endowment"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": "2025-03-31T10:00:00-04:00",
+    "article_ids": [
+      "9a18bcb3-ada5-430b-b7fe-bd321e780651"
+    ],
+    "source_domains": [
+      "www.wfyi.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "3ec9f81e-5d1a-4007-88a0-21ebd0a1db4b",
+    "canonical_title": "US: Brightline Receives Grant to RAISE Safety Standards",
+    "summary": "Brightline has received a $25 million federal grant to enhance safety features along its Florida railway corridor, supplementing its own investments in infrastructure improvements.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Brightline",
+      "Florida Department of Transportation",
+      "US Department of Transportation",
+      "ENSCO Rail",
+      "Patrick Goddard",
+      "Jackie van der Westhuizen"
+    ],
+    "suggested_category": "Technology & Innovation",
+    "first_seen_at": "2022-08-16T15:03:46+00:00",
+    "article_ids": [
+      "763b7ebf-3f79-4aca-aa4b-58e5e4200ffc",
+      "bb7376a3-b206-4c2f-9b45-0cb59a5ed0f1"
+    ],
+    "source_domains": [
+      "railway-news.com"
+    ],
+    "article_count": 2
+  },
+  {
+    "story_id": "6b379f45-d2a2-4196-816e-8306599e705c",
+    "canonical_title": "Campaign to improve Staffordshire's mental health launched",
+    "summary": "Staffordshire County Council has launched its \"Five Ways to Wellbeing\" campaign to improve residents' mental and emotional health following a rise in self-harm admissions and depression diagnoses.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Staffordshire County Council",
+      "Councillor Martin Rogerson"
+    ],
+    "suggested_category": "Public Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "53cafe8f-95b7-4476-a4ae-064770f275bb"
+    ],
+    "source_domains": [
+      "www.bbc.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "1cd19781-582a-4a32-8499-8f664ace702d",
+    "canonical_title": "Mindful Conversations: 5 lessons for supporting mental health in academia",
+    "summary": "The \"Mindful Conversations\" seminar series, launched by UCL Computer Science, offers a model for fostering open discussions and supporting mental health among staff and PhD students in academia.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Matthew Grech-Sollars",
+      "Maitrei Kohli",
+      "UCL Computer Science"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2025-08-19T09:30:00+01:00",
+    "article_ids": [
+      "58b0d067-47b3-40e9-be97-fb14a597c077"
+    ],
+    "source_domains": [
+      "www.ucl.ac.uk"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "45756700-3d66-460b-b32d-1302912d274b",
+    "canonical_title": "Fentanyl: The transnational vector of violence",
+    "summary": "Federal prosecutors have filed criminal charges against five senior leaders of the United Cartels for orchestrating a violent, global narcotics network that traffics fentanyl, methamphetamine, and cocaine into the U.S., linking the fentanyl crisis to an increase in cartel violence in Mexico.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Juan Jose Farias Alvarez",
+      "Alfonso Fernandez Magallon",
+      "Luis Enrique Barragan Chavez",
+      "Edgar Orozco Cabadas",
+      "Nicolas Sierra Santana",
+      "United Cartels",
+      "Los Reyes Cartel",
+      "Los Viagras Cartel",
+      "Department of Justice",
+      "Department of the Treasury"
+    ],
+    "suggested_category": "Substance Use & Opioids",
+    "first_seen_at": "2025-08-19T00:00:00",
+    "article_ids": [
+      "d3696c5b-ce6c-4a76-a6e5-e51f502a0e48",
+      "29708686-c107-4221-ae03-ee1146ddc2a6"
+    ],
+    "source_domains": [
+      "cepr.org",
+      "www.shorenewsnetwork.com"
+    ],
+    "article_count": 2
+  },
+  {
+    "story_id": "d9142668-ef1b-4cad-82cd-54b4283459b6",
+    "canonical_title": "U.S. Women’s CP National Team",
+    "summary": "The U.S. Women's and Men's Cerebral Palsy National Teams provide high-level playing opportunities for eligible athletes with cerebral palsy, stroke, or traumatic brain injury, with the Women's team winning the first-ever IFCPF Women's World Cup.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "U.S. Women’s CP National Team",
+      "U.S. Men’s CP National Team",
+      "IFCPF",
+      "U.S. Soccer"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": null,
+    "article_ids": [
+      "bdc7c079-d69a-4883-ae8d-cce40c3056e5",
+      "04ea4b36-8c9d-4157-a4d0-f369239f7cbe"
+    ],
+    "source_domains": [
+      "www.ussoccer.com"
+    ],
+    "article_count": 2
+  },
+  {
+    "story_id": "86f11b64-6439-4eb4-bedb-721ade606c34",
+    "canonical_title": "10-Year-Old Immigrant Is Detained After Agents Stop Her on Way to Surgery",
+    "summary": "A 10-year-old immigrant girl with cerebral palsy was detained by federal immigration authorities in Texas after being stopped en route to emergency surgery, raising concerns about the rare detention of a child with a serious medical condition already living in the U.S.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Rosamaria Hernandez",
+      "Border Patrol",
+      "Driscoll Children’s Hospital"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": "2017-10-25T00:00:00",
+    "article_ids": [
+      "09c3e0a6-2821-451d-a582-0f167d6de3ee"
+    ],
+    "source_domains": [
+      "www.nytimes.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "7f5ea9d9-8bf1-48b5-be5a-6900717a1e18",
+    "canonical_title": "August is Overdose Awareness Month: A Time to Reflect, Educate, and Take Action",
+    "summary": "August is recognized as Overdose Awareness Month to remember those lost to overdose, support recovery, and raise awareness about the public health crisis driven by fentanyl and other substances.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Maitri Path to Wellness"
+    ],
+    "suggested_category": "Public Health",
+    "first_seen_at": "2025-08-18T00:00:00",
+    "article_ids": [
+      "9ead48ea-6eea-4517-9292-4e3df89fd2f0"
+    ],
+    "source_domains": [
+      "www.shawlocal.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "2125d97c-6f1c-4b39-a641-4e128f0bc870",
+    "canonical_title": "How self-distancing can boost your mental health in this age of safe distancing - TODAY_Page_2",
+    "summary": "This article presents a historical photo essay from LIFE magazine on the treatment of mental illness at Pilgrim State Hospital in 1938, reflecting on the grim realities and advancements in psychiatric care since then.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "LIFE magazine",
+      "Alfred Eisenstaedt",
+      "Liz Ronk"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "3e769134-a565-489e-ad57-2faa2752e038"
+    ],
+    "source_domains": [
+      "www.life.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "f9988e04-b005-44f7-9988-ac46ecbe013e",
+    "canonical_title": "Medical records shed new light on man's death in Baltimore police custody",
+    "summary": "Medical records and dispatch audio shed new light on the death of Dontae Melton Jr. in Baltimore police custody, who died after being restrained during a mental health crisis, raising questions about the delay in care and circumstances of his death.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Dontae Melton Jr.",
+      "Eleshiea Goode",
+      "Baltimore police",
+      "Maryland attorney general's office",
+      "Grace Medical Center"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "afc91178-c4f2-49a7-94b8-9148dcc576fa"
+    ],
+    "source_domains": [
+      "www.cbsnews.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "69fefd79-d416-49b8-9d41-4f562bf4192a",
+    "canonical_title": "New Executive Order Could Reshape US Response to Homelessness — The Denver VOICE",
+    "summary": "A new executive order from the White House, \"Ending Crime and Disorder on America's Streets,\" aims to reshape the U.S. response to homelessness by reversing \"Housing First\" policies, encouraging involuntary commitment for mental illness, and incentivizing encampment cleanups.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "White House",
+      "Jeff Olivet",
+      "U.S. Interagency Council on Homelessness",
+      "Donald Trump",
+      "Stephen Taylor",
+      "American Society of Addiction Medicine",
+      "Jesse Rabinowitz",
+      "National Homelessness Law Center",
+      "Scott Turner",
+      "Heritage Foundation",
+      "National Park Service"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": "2025-08-19T00:00:00",
+    "article_ids": [
+      "5591dbf7-3c1d-4edc-be82-b7b0456a0e15"
+    ],
+    "source_domains": [
+      "www.denvervoice.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "d0892851-8a31-4044-bc74-13b099c66461",
+    "canonical_title": "How self-distancing can boost your mental health in this age of safe distancing - TODAY_Page_2",
+    "summary": "The Office for Research at NIE, which drives research and innovation in education, invites subscriptions for updates on its studies and events, including those related to mental health and wellbeing.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Office for Research",
+      "NIE"
+    ],
+    "suggested_category": "Research & Studies",
+    "first_seen_at": null,
+    "article_ids": [
+      "80a3b396-cfb0-4fee-b9fc-e88608ea83b6"
+    ],
+    "source_domains": [
+      "www.ntu.edu.sg"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "70207716-f2d5-4157-835a-6d8aae7863bf",
+    "canonical_title": "Breaking down uninsured numbers under Trump's spending law",
+    "summary": "New estimates from the Congressional Budget Office project that President Donald Trump's \"One Big Beautiful Bill Act\" will result in approximately 10 million more uninsured Americans over the next decade, primarily due to cuts to Medicaid and changes to Health Insurance Marketplaces.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Donald Trump",
+      "Congressional Budget Office",
+      "Medicaid",
+      "Medicare",
+      "Affordable Care Act",
+      "Children's Health Insurance Program",
+      "Basic Health Program",
+      "Biden Administration"
+    ],
+    "suggested_category": "Insurance & Coverage",
+    "first_seen_at": null,
+    "article_ids": [
+      "b708880a-5148-4f9c-abcd-f2b8db40d9e2"
+    ],
+    "source_domains": [
+      "www.techtarget.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "0986dfd9-550e-48b4-b454-4a3ecb25b11f",
+    "canonical_title": "From Fentanyl to Nitazenes: Why the Drug War Keeps Making the Danger Worse",
+    "summary": "The article argues that strict drug war policies are exacerbating the opioid crisis by leading to the emergence of more potent synthetic opioids like nitazenes, which are more dangerous than fentanyl and require multiple doses of naloxone to reverse overdoses.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Josh Bloom",
+      "Donald Trump",
+      "World Health Organization",
+      "House Judiciary Subcommittee on Crime and Government Surveillance",
+      "HALT Fentanyl Act",
+      "Dr. Singer"
+    ],
+    "suggested_category": "Substance Use & Opioids",
+    "first_seen_at": "2025-08-19T00:00:00",
+    "article_ids": [
+      "5d0f91fd-24ac-4409-9b0e-5863cadd851e"
+    ],
+    "source_domains": [
+      "www.acsh.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "391c0236-c3cb-4ccc-80a4-fc340b2e09a8",
+    "canonical_title": "New insights into regional differences in inpatient care for depression",
+    "summary": "A study in Austria reveals significant regional differences and an urban-rural divide in hospital admissions for depression, influenced by proximity to hospitals and availability of private psychiatric care, suggesting potential discrepancies between patient needs and healthcare infrastructure.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Michael Berger",
+      "Judit Simon",
+      "MedUni Vienna",
+      "Gesundheit Österreich GmbH"
+    ],
+    "suggested_category": "Research & Studies",
+    "first_seen_at": null,
+    "article_ids": [
+      "8551ef8b-7869-45d3-a55f-24a6eba79d82"
+    ],
+    "source_domains": [
+      "www.meduniwien.ac.at"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "f69bfba9-41a3-43ac-b274-9b6a5208d4a7",
+    "canonical_title": "Three people have been arrested in connection with an overdose in Silver Creek.",
+    "summary": "Three individuals have been arrested and charged with conspiracy to distribute controlled substances in connection with an overdose in Silver Creek, part of a larger international drug trafficking organization operating online.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Michael DiGiacomo",
+      "Leeladhar H. Tandel",
+      "Barry M. Wright",
+      "Jesus Andon",
+      "Joshua Violanti",
+      "Drug Enforcement Agency"
+    ],
+    "suggested_category": "Substance Use & Opioids",
+    "first_seen_at": null,
+    "article_ids": [
+      "59eb76cc-954e-41ba-a515-319993bdc379"
+    ],
+    "source_domains": [
+      "www.wrfalp.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "20b31924-24fb-4622-9a37-e9bd6b34db3d",
+    "canonical_title": "How Latinas Can Cope with the Pressures of Breastfeeding",
+    "summary": "The article discusses the unique cultural and societal pressures Latinas face regarding breastfeeding, highlighting the emotional toll it can take and offering coping strategies for mental health.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Patricia Alvarado"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2025-08-19T18:27:26+00:00",
+    "article_ids": [
+      "791b770f-5a15-47c1-bc80-cba1d52b285d"
+    ],
+    "source_domains": [
+      "hiplatina.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "8ec3e73f-72ef-4e6f-b036-1cbc770fd0eb",
+    "canonical_title": "Becker’s Behavioral Health",
+    "summary": "The Queen's Health Systems addressed challenges like delayed emergency department admissions and transfer rejections by focusing on hospital operational efficiency, as length of stay serves as a proxy for these issues.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "The Queen’s Health Systems"
+    ],
+    "suggested_category": "Healthcare Services",
+    "first_seen_at": null,
+    "article_ids": [
+      "dd745f8c-62f8-46f7-ae1f-4d67d1056765"
+    ],
+    "source_domains": [
+      "www.beckersbehavioralhealth.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "237fe046-5e44-438f-9d7e-fc30fda66f36",
+    "canonical_title": "Woman experiences mental health crisis in Roseville area, Roseville CA",
+    "summary": "Emergency services responded to a medical building in Roseville, California, where light smoke was detected from attic vents and a woman was reportedly experiencing a mental health crisis.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Police",
+      "EMS",
+      "Kaiser"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "9d5a012a-d674-4f8c-a8fd-34083f14483f"
+    ],
+    "source_domains": [
+      "www.newsbreak.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "4c47cac4-89a4-45ab-9409-de07346cfdf4",
+    "canonical_title": "The Lassen County Office of Education (LCOE) announced today that it will not be participating in this year’s American Foundation for Suicide Prevention (AFSP) Walk, an event the organization has supported in past years.",
+    "summary": "The Lassen County Office of Education will not participate in the American Foundation for Suicide Prevention Walk due to increased sponsorship costs and perceived lack of resource return to rural areas, but pledges to bring the walk back locally in 2026.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Lassen County Office of Education",
+      "American Foundation for Suicide Prevention",
+      "Megan Gray"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "f1725916-b93e-4c47-b099-ebceebc2eab2"
+    ],
+    "source_domains": [
+      "www.sierradailynews.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "6234d5ab-fbd9-47b0-9f89-1ed36f8e29fc",
+    "canonical_title": "Pediatric Pain Rehabilitation Center - Overview",
+    "summary": "The Mayo Clinic Pediatric Pain Rehabilitation Center helps youth aged 12-22 with chronic pain and related symptoms return to active lifestyles through integrated physical, cognitive-behavioral, and occupational therapies.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Mayo Clinic Pediatric Pain Rehabilitation Center",
+      "Mayo Clinic Children's",
+      "American Nurses Credentialing Center"
+    ],
+    "suggested_category": "Healthcare Services",
+    "first_seen_at": "2024-10-25T00:00:00",
+    "article_ids": [
+      "0187505f-ff6e-4311-8c77-489db590dac1"
+    ],
+    "source_domains": [
+      "www.mayoclinic.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "3cfe7434-8ff5-4169-a8e5-3e1f4bd2c9e5",
+    "canonical_title": "Pasadena Unified promises more post-fire mental health support as school year begins",
+    "summary": "Pasadena Unified School District has expanded mental health support for students returning to school after the Eaton Fire, including hiring a crisis counselor, adding MTSS coordinator positions, and offering free teletherapy.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Pasadena Unified School District",
+      "Elizabeth Blanco",
+      "LAist"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2025-08-18T21:58:50.944000",
+    "article_ids": [
+      "54030fc7-278d-44d1-bfce-6c935fcd1251"
+    ],
+    "source_domains": [
+      "laist.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "744d5a13-ca60-4753-af54-5593119e9095",
+    "canonical_title": "Amid an escalating national crisis in youth mental health, emergency department boarding times for children and adolescents have increased as they wait for behavioral health and psychiatric services. Clinicians strive to avert these boarding outcomes by expanding access to mental health support through innovative strategies, Funda Bachini, MD, division chief of psychiatry at Phoenix Children’s, told Becker’s.",
+    "summary": "Phoenix Children’s is addressing the national youth mental health crisis and increased emergency department boarding times for children needing psychiatric services by implementing strategies like placing psychiatric nurse practitioners in ERs and developing a bridge clinic to improve access to care.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Funda Bachini",
+      "Phoenix Children’s",
+      "Becker’s"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "7a219d7e-f8e6-4f6b-a5f1-132cff24ba57"
+    ],
+    "source_domains": [
+      "www.beckersbehavioralhealth.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "186a43bc-acc4-4578-8da0-31c259849671",
+    "canonical_title": "Resident reported in mental health crisis at home, Berea OH",
+    "summary": "Police and EMS responded to a residence in Berea, Ohio, after a report of a female experiencing a mental health crisis.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Police",
+      "EMS"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "1aef3239-3a5e-4450-8885-22d031a00fb8"
+    ],
+    "source_domains": [
+      "www.newsbreak.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "4e1026c0-24c3-4686-ac3c-18d6861659b1",
+    "canonical_title": "The future of U.S. train travel is here—and it’s not on Amtrak",
+    "summary": "Brightline is revolutionizing U.S. train travel with its luxurious Florida service and planned high-speed electric line from Los Angeles to Las Vegas, demonstrating a successful private rail model despite challenges like land acquisition, environmental permits, and accident fatalities.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Brightline",
+      "Amtrak",
+      "Mike Reininger",
+      "Harry Teng",
+      "Seth Moulton",
+      "Texas Central",
+      "Northeast Maglev",
+      "Wayne Rogers"
+    ],
+    "suggested_category": "Technology & Innovation",
+    "first_seen_at": "2023-09-05T08:45:00+00:00",
+    "article_ids": [
+      "994c2f42-c9ba-43b7-aa4d-1bc7d0412365"
+    ],
+    "source_domains": [
+      "www.fastcompany.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "2807ce69-5bff-4b61-9a8c-01a24f7d423d",
+    "canonical_title": "Behavioral Health Archives",
+    "summary": "Becker's Behavioral Health covers how technology is shaping Children's Nebraska's behavioral healthcare vision, a hospital's shift to focus on older adult behavioral health, and NYC Health + Hospitals' redefinition of behavioral healthcare.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Children's Nebraska",
+      "NYC Health + Hospitals",
+      "Becker's Behavioral Health"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "79b0a9ce-d8c5-4012-a1c0-432c822d1b96"
+    ],
+    "source_domains": [
+      "www.beckersbehavioralhealth.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "b620e8dd-b2d1-4307-934a-2333517ad5ef",
+    "canonical_title": "Rethinking Breast Cancer Trials: A Clinical Perspective from Dr. Sud Agarwal, CEO of iNGENū CRO",
+    "summary": "Dr. Sud Agarwal, CEO of iNGENu CRO, advocates for rethinking breast cancer clinical trials to include broader outcomes like quality of life and emotional well-being, beyond traditional survival metrics, to better reflect patient realities.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Dr. Sud Agarwal",
+      "iNGENū CRO"
+    ],
+    "suggested_category": "Research & Studies",
+    "first_seen_at": null,
+    "article_ids": [
+      "ac0c14b3-7b66-4bd1-8bc6-a972ec6de93c"
+    ],
+    "source_domains": [
+      "vocal.media"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "d1250466-0c0a-4056-b67c-7973fb142833",
+    "canonical_title": "Forever 41 golf tournament at Mainprize raises awareness for men's mental health",
+    "summary": "The \"Forever 41\" golf tournament at Mainprize Regional Park honored Arie Schimmel while raising awareness and funds for men's mental health and suicide prevention.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Mainprize Regional Park",
+      "Michelle Walsh",
+      "Forever 41 Committee",
+      "Dakota Dreyer",
+      "Devin Tessier",
+      "Ryan Thompson",
+      "Arie Schimmel",
+      "Austin Schimmel",
+      "Attison Schimmel",
+      "Forever 41 Foundation"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "5c9a28ff-20b6-4d21-b37f-197cf86e28a2"
+    ],
+    "source_domains": [
+      "discoverweyburn.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "6dd462a9-7dd7-4440-b970-e23f1b7ccc55",
+    "canonical_title": "The Menninger Clinic Is One of the Country's Best Psychiatric Hospitals",
+    "summary": "The Menninger Clinic, a Baylor College of Medicine teaching hospital, has again been ranked among the top psychiatric hospitals nationally by U.S. News and World Report, recognized for its precision mental health and substance use care.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "The Menninger Clinic",
+      "U.S. News and World Report",
+      "Johns Hopkins Hospital",
+      "McLean Hospital",
+      "Massachusetts General Hospital",
+      "Baylor College of Medicine",
+      "Armando Colombo"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "28f1870e-dde6-40c5-927b-0927565477a3"
+    ],
+    "source_domains": [
+      "www.houstoniamag.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "b98323f5-6603-41ce-9b0a-69daab8e7334",
+    "canonical_title": "The smallest town in Spain is 20 minutes away from Valencia: it has only 6 streets",
+    "summary": "Llocnou de la Corona, a town just 20 minutes from Valencia, has been recognized as the smallest municipality in Spain, with only 6 streets and 109 inhabitants, depending on a neighboring municipality for basic services.",
+    "sentiment": "Neutral",
+    "key_entities": [],
+    "suggested_category": "Community Impact",
+    "first_seen_at": "2025-08-19T10:02:31+00:00",
+    "article_ids": [
+      "60d0234c-c3b3-4a2a-9027-ea05bec91393"
+    ],
+    "source_domains": [
+      "valenciasecreta.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "717d2855-006a-4ac8-ac0c-c99a23c4e150",
+    "canonical_title": "Fort Wayne mental health and wellness organization receives $1 million grant",
+    "summary": "Courageous Healing, a Fort Wayne mental health organization, received a $1 million grant to create a mobile crisis unit, partnering with first responders to provide mental health support in high-need neighborhoods.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Aaron Lane",
+      "Janell Lane",
+      "Courageous Healing",
+      "Black Onyx",
+      "Dexter Rogers"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2025-08-19T00:00:00",
+    "article_ids": [
+      "c3228747-6992-4f2b-bf64-8c7d39295b1f"
+    ],
+    "source_domains": [
+      "www.21alivenews.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "fbf3efbe-d492-4e62-946c-1889ad5b8075",
+    "canonical_title": "Finding Clarity and Confidence with Licensed Counselor Michelle Pagella",
+    "summary": "Licensed Clinical Professional Counselor Michelle Pagella offers therapy for adults and teens struggling with mental health challenges like depression and anxiety, and career-related issues, using tailored approaches including Cognitive Behavioral Therapy.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Michelle Pagella"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2025-08-19T00:00:00",
+    "article_ids": [
+      "5caf1295-ffd9-4ae7-907b-451237b3bbf0"
+    ],
+    "source_domains": [
+      "www.shawlocal.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "16780e95-4127-478d-bcdd-00d43685a698",
+    "canonical_title": "Nearly Half of Nursing Home Workers Suffer Mental Health Problems: Study",
+    "summary": "A new international study indicates that nearly half of nursing home workers suffer from mental health problems, including anxiety, exacerbating staffing shortages in long-term care facilities globally.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Centers for Medicare and Medicaid"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2025-08-19T12:31:00+00:00",
+    "article_ids": [
+      "1f976693-9149-47ce-9392-87b243e459a8"
+    ],
+    "source_domains": [
+      "www.aboutlawsuits.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "54d0626d-40e3-4670-93b8-46b42355c1da",
+    "canonical_title": "Kyle Chalmers Discusses Swimming Career, Personal Life, and Mental Health",
+    "summary": "Olympic gold medalist Kyle Chalmers shares insights on his swimming career, anticipation for the 2025 World Championships, new farm life in Adelaide Hills, impending fatherhood, and the importance of mental health.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Kyle Chalmers",
+      "Eric Thomas",
+      "Ingie Løyning",
+      "Peter Bishop",
+      "Caeleb Dressel",
+      "Chalmers Swim Academy"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": "2025-08-19T19:22:11+00:00",
+    "article_ids": [
+      "ac7f0a77-4fee-4174-aac4-f7e47f799ac8"
+    ],
+    "source_domains": [
+      "www.digitaljournal.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "86c7df8b-b8c1-4320-85f7-7763b29d8d91",
+    "canonical_title": "San Siro Stadium Atmosphere Criticized After Fan Protest",
+    "summary": "The San Siro stadium experienced a \"depressing\" and \"lifeless\" atmosphere during a Coppa Italia match due to a Curva Sud fan protest against new stadium regulations and bans.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Curva Sud",
+      "MilanNews",
+      "PSG",
+      "Galatasaray",
+      "Bari"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": "2025-08-18T16:45:00+00:00",
+    "article_ids": [
+      "293b6882-9436-439e-814c-6bdc03b5d311"
+    ],
+    "source_domains": [
+      "sempremilan.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "57a974c0-4223-49eb-9a5c-0a1bd90d2149",
+    "canonical_title": "Madrona Recovery Opens Teen Mental Health and Substance Use Disorder Facility in Brush Prairie",
+    "summary": "Madrona Recovery is set to open a 30,000-square-foot facility in Brush Prairie this month to provide comprehensive treatment for teens aged 13-17 with co-occurring mental health and substance use disorders.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Madrona Recovery",
+      "Daybreak Youth Services",
+      "John Thornton",
+      "Lisa Callan",
+      "Monica Stonier",
+      "Paul Harris",
+      "Stephanie McClintock",
+      "Annette Cleveland",
+      "Healthcare Authority",
+      "Department of Health"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "c0be0871-e787-4cf0-bde4-6ea64c733ab7"
+    ],
+    "source_domains": [
+      "www.newsbreak.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "2e92548c-27a8-419e-881d-7ff347ecc29b",
+    "canonical_title": "HCA Healthcare Settles Allegations Over Nurse Training Repayment Agreements",
+    "summary": "HCA Healthcare Inc. agreed to a $3.5 million settlement with the attorneys general of California, Colorado, and Nevada over allegations of deceptive practices and labor law violations related to training repayment agreements with new nurses.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "HCA Healthcare Inc.",
+      "California AG",
+      "Colorado AG",
+      "Nevada AG",
+      "StaRN Program",
+      "Troutman Pepper Locke State Attorneys General Team"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": "2025-08-19T19:31:17+00:00",
+    "article_ids": [
+      "8b6b48d0-d6e2-4975-b379-99a9d5bb8a5d"
+    ],
+    "source_domains": [
+      "www.regulatoryoversight.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "c93d6630-076b-4a8a-9677-aaaa5266863b",
+    "canonical_title": "Charges Dismissed Against Tyron McAlpin After Phoenix Police Altercation",
+    "summary": "All charges have been dismissed against Tyron McAlpin, a deaf Black man with cerebral palsy, who was tased and repeatedly punched by Phoenix police officers during an August arrest that raised questions about police conduct.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Tyron McAlpin",
+      "Phoenix Police Department",
+      "Maricopa County Attorney Rachel Mitchell",
+      "NAACP",
+      "Jesse Showalter",
+      "Officer Benjamin Harris",
+      "Officer Kyle Sue",
+      "Justice Department"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": "2024-10-19T19:57:08.252000+00:00",
+    "article_ids": [
+      "5818e4e5-f185-4324-a3a7-86459ca19820"
+    ],
+    "source_domains": [
+      "www.nbcnews.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "17e1e2f6-894f-4556-8a91-8f2552da51d4",
+    "canonical_title": "LEED Platinum Liberty Wildlife Rehabilitation Center Advances Conservation Efforts",
+    "summary": "The LEED Platinum Liberty Wildlife Rehabilitation Center is noted for its contributions to conservation efforts.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Liberty Wildlife Rehabilitation Center",
+      "USGBC",
+      "GBCI"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": null,
+    "article_ids": [
+      "8778cb6a-a4f0-46d9-88ea-e31b5a2ff435"
+    ],
+    "source_domains": [
+      "www.usgbc.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "b9d3802d-edda-40a5-bb82-a206d0703ba3",
+    "canonical_title": "Texas Declares End to Measles Outbreak",
+    "summary": "Texas health officials have declared the end of a measles outbreak in West Texas, which saw 762 confirmed cases, 99 hospitalizations, and two child deaths, though ongoing global outbreaks suggest more cases may occur.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Texas Department of State Health Services (DSHS)",
+      "Jennifer A. Shuford"
+    ],
+    "suggested_category": "Public Health",
+    "first_seen_at": "2025-08-18T00:00:00",
+    "article_ids": [
+      "6e4c1653-4986-46bc-987f-6ac7179a67a3"
+    ],
+    "source_domains": [
+      "spectrumlocalnews.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "524f3068-2a74-4424-9a39-b45547e13425",
+    "canonical_title": "Ambassador Degnan Visits Maro Makashvili Wounded Warrior Rehabilitation Center",
+    "summary": "Ambassador Degnan visited the Maro Makashvili Wounded Warrior Rehabilitation Center.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Ambassador Degnan",
+      "Maro Makashvili Wounded Warrior Rehabilitation Center"
+    ],
+    "suggested_category": "Healthcare Services",
+    "first_seen_at": "2021-02-02T11:28:00+00:00",
+    "article_ids": [
+      "12e35d9b-6603-49b8-bb8d-c053ffce74cc"
+    ],
+    "source_domains": [
+      "ge.usembassy.gov"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "100fbe21-f22d-4474-b071-da8d23f559c5",
+    "canonical_title": "Challenging the Narrative of Back-to-School Anxiety",
+    "summary": "An article argues that excessive preparation for \"back-to-school anxiety\" in children might be counterproductive, instead promoting resilience by expressing confidence and treating the transition as routine.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Samantha Boardman",
+      "Let Grow",
+      "Columbia University"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "2b49aa89-83d3-40bd-a16d-5f5192d2de6c"
+    ],
+    "source_domains": [
+      "www.freerangekids.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "c30a1d3e-32c3-4ab8-9149-718d78bfd32e",
+    "canonical_title": "911 Call Describes Mental Health Crisis in Cincinnati",
+    "summary": "A 911 call from Cincinnati detailed a mental health crisis involving a caller who reported being choked and asked for an ambulance, expressing various body parts were swollen.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Cincinnati Police"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "c0c86ead-645b-45b5-a879-b99d25504081"
+    ],
+    "source_domains": [
+      "www.newsbreak.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "b6ec7e0d-5cd6-4dde-87f6-7fa7f5db6d42",
+    "canonical_title": "Medicaid as a Lifeline for Chronically Ill and Disabled Individuals",
+    "summary": "An individual with sickle cell disease advocates for strengthening Medicaid protections, arguing that the program is a vital lifeline for millions of chronically ill and disabled Americans who are often forced into poverty by income caps and work requirements.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Trump administration",
+      "Kaiser Family Foundation",
+      "Adam Gaffney"
+    ],
+    "suggested_category": "Insurance & Coverage",
+    "first_seen_at": "2025-08-19T00:00:00",
+    "article_ids": [
+      "5a80a9b0-f033-4967-a907-8471d6e120c1"
+    ],
+    "source_domains": [
+      "www.westhawaiitoday.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "614dab90-53fb-4beb-b65a-c40c02f8a475",
+    "canonical_title": "Worms Explored for Future Mental Health Treatments",
+    "summary": "This article states that scientists are exploring how worms could potentially be used in future mental health treatments.",
+    "sentiment": "Neutral",
+    "key_entities": [],
+    "suggested_category": "Research & Studies",
+    "first_seen_at": null,
+    "article_ids": [
+      "ae690aa4-d6d8-4dc8-bc5e-a76f8a5e19e8"
+    ],
+    "source_domains": [
+      "www.inkl.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "23fa4fde-fee8-489f-9143-2cc8ec855d49",
+    "canonical_title": "Mindfulness and Social Connection Boost Mental Health",
+    "summary": "UCI Health expert Dr. Robert McCarron suggests that practicing everyday mindfulness and fostering social connections can significantly enhance mental well-being by diverting attention from anxieties.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Robert McCarron",
+      "UCI Health",
+      "Orange County Medical Association",
+      "UC Irvine School of Medicine",
+      "Susan Samueli Integrative Health Institute",
+      "Susan & Henry Samueli College of Health Sciences"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "dadbc250-fce5-4e75-851f-d4587c6e830f"
+    ],
+    "source_domains": [
+      "www.ucihealth.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "1671a7b0-c33d-49e9-8eff-66d562d8d94f",
+    "canonical_title": "Discussion on Overdose Prevention in Queer Nightlife Scheduled",
+    "summary": "A panel discussion on overdose prevention in the LGBTQ party scene, focusing on harm reduction and naloxone awareness, will be held in San Francisco.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "San Francisco Entertainment Commission",
+      "San Francisco AIDS Foundation",
+      "Marke B",
+      "Kochina Rude",
+      "Dylan Rice",
+      "Maria Davis",
+      "Joseph Pred",
+      "Mutual Aid Response Services",
+      "Burning Man Emergency Services Dept.",
+      "Elle Chen",
+      "Drug Policy Alliance"
+    ],
+    "suggested_category": "Public Health",
+    "first_seen_at": "2025-08-19T00:38:58+00:00",
+    "article_ids": [
+      "c36b38fb-74dc-4f48-9ebe-b4185d158c16"
+    ],
+    "source_domains": [
+      "48hills.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "c8a68071-3c74-424d-9bc2-e5c0e672d34f",
+    "canonical_title": "Illinois Governor Defends Student Mental Health Mandate Against Parental Consent Bill",
+    "summary": "Illinois Governor Pritzker is defending the state's new law mandating mental health screenings for public school students, while U.S. Rep. Mary Miller is reintroducing federal legislation to require written parental consent for such screenings.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Governor Pritzker",
+      "Mary Miller",
+      "SB1560",
+      "Parents Opt-In Protection Act",
+      "Illinois Family Institute",
+      "David Smith",
+      "Debbie Kraulidis",
+      "Moms For America",
+      "Linda McMahon"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": null,
+    "article_ids": [
+      "e0991066-e0a9-4134-8706-3648e9a9f813"
+    ],
+    "source_domains": [
+      "www.thecentersquare.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "a9c7fd9f-a609-4b20-8e14-1c1654c86142",
+    "canonical_title": "European Committee of Social Rights Decision on French Health and Social Care Working Conditions",
+    "summary": "The European Committee of Social Rights has made public its decision on a complaint by Fédération SUD Santé Sociaux against France regarding alleged non-compliance with collective bargaining agreements and differential treatment for health and social care public servants.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Fédération SUD Santé Sociaux",
+      "France",
+      "European Committee of Social Rights (ECSR)",
+      "Council of Europe"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": null,
+    "article_ids": [
+      "2524e743-84ba-442c-81e7-d8a797417da2"
+    ],
+    "source_domains": [
+      "www.coe.int"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "4b6802ec-5f37-4e0a-8185-3693a79489df",
+    "canonical_title": "Diamond Healthcare Corp. Expands Behavioral Healthcare Services in North Texas",
+    "summary": "Richard Feldman, President and CEO of Diamond Healthcare Corp., discusses the company's expansion into North Texas through a partnership with SRP Medical to enhance behavioral healthcare services and facilities, including rebranding hospitals as \"WellBridge Healthcare\".",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Richard Feldman",
+      "Diamond Healthcare Corp.",
+      "SRP Medical",
+      "WellBridge Healthcare",
+      "Scott Wilson"
+    ],
+    "suggested_category": "Business & M&A",
+    "first_seen_at": null,
+    "article_ids": [
+      "3ae376ab-75c3-4a9d-abf6-63e706b6e5e3"
+    ],
+    "source_domains": [
+      "www.dmagazine.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "2bf31788-0078-4096-bfe1-268cd223ff44",
+    "canonical_title": "VA Palo Alto Polytrauma and Blind Rehabilitation Center Wins Design Award",
+    "summary": "The U.S. Department of Veterans Affairs Palo Alto Polytrauma and Blind Rehabilitation Center, the largest federal rehabilitation facility of its kind, received an award for its design which enhances patient rehabilitation and staff performance.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "U.S. Department of Veterans Affairs Palo Alto (VAPA) Polytrauma and Blind Rehabilitation Center",
+      "The Design Partnership",
+      "SmithGroup",
+      "AIA/AAH Healthcare Design Awards",
+      "Charles M. Salter Associates, Inc.",
+      "Guttmann & Blaevoet",
+      "Cammisa + Wipf",
+      "Capital Engineering Consultants, Inc.",
+      "Degenkolb Engineers",
+      "Treadwell & Rollo",
+      "Keller Mitchell & Co.",
+      "Royston Hanamoto Alley & Abey",
+      "Kate Keating Associates",
+      "TEECOM"
+    ],
+    "suggested_category": "Healthcare Services",
+    "first_seen_at": null,
+    "article_ids": [
+      "1757a66d-b171-4329-9db4-53d9af857f8f"
+    ],
+    "source_domains": [
+      "www.architectmagazine.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "d43d4f5e-14df-4291-8b22-a46168491328",
+    "canonical_title": "Sudan and Senegal Draw 0-0 in African Nations Championship",
+    "summary": "Sudan and Senegal played to a 0-0 draw in the African Nations Championship group stage, a result that allowed both teams to qualify for the next round of the competition.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Sudan",
+      "Senegal",
+      "Mbaye Yaya Ly",
+      "Mohamed Al Rashed",
+      "Ameth Niang",
+      "Bonaventura Fonseca",
+      "Oumar Ba",
+      "Moussa Cisse",
+      "Mubark Abdalla",
+      "Mohamed El-Rasheed",
+      "Musa Hussien",
+      "Abdel Raouf",
+      "Ababacar Sarr",
+      "Libasse Guèye",
+      "Awad Zayed",
+      "Mazin Fadul Al-Bahli",
+      "Salah Adel",
+      "Ousseynou Seck",
+      "Vieux Cisse",
+      "Pape Badji",
+      "Christian Gomis",
+      "Mohamed Tia Asad",
+      "Ali Abdalla",
+      "Brighton Chimene",
+      "Eba Médard Ettien",
+      "Abdoul Aziz Yacouba",
+      "Jelly Alfred Chavani",
+      "Akhona Zennith Makalima",
+      "Maria Rivet",
+      "Souleymane Diallo",
+      "Kwesi Appiah",
+      "FIFA"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": null,
+    "article_ids": [
+      "944f84c3-41f5-4588-bc6b-4428457c8821"
+    ],
+    "source_domains": [
+      "www.vavel.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "0de9c000-b5c9-4662-bf46-273c5c1919c6",
+    "canonical_title": "Dallas and Fort Worth Cease DEI Efforts to Maintain Federal Funding",
+    "summary": "Dallas and Fort Worth city councils have ended their diversity, equity, and inclusion (DEI) initiatives to comply with the Trump administration's directives and secure hundreds of millions in federal funding, sparking debate and criticism.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Dallas City Council",
+      "Fort Worth City Council",
+      "Kimberly Tolbert",
+      "Mia Hall",
+      "Chris Nettles",
+      "Deborah Peoples",
+      "Elizabeth Beck",
+      "Jay Chapa",
+      "T.C. Broadnax",
+      "Erik Walsh",
+      "Trump administration",
+      "The Texas Tribune",
+      "National Association of Diversity Officers in Higher Education",
+      "JPMorganChase"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": null,
+    "article_ids": [
+      "d3d33c8b-d4fc-4366-b8f5-e5f552918454"
+    ],
+    "source_domains": [
+      "goodmenproject.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "c58dd76c-4f86-420a-ac15-6e9f46fa5384",
+    "canonical_title": "Challenges of Healthcare Access in Rural America Highlighted by GAO",
+    "summary": "A U.S. GAO report details how over 60 million rural Americans face challenges accessing healthcare due to hospital closures, lack of insurance, limited broadband for telehealth, and disproportionate effects on vulnerable populations like pregnant individuals, American Indians, Alaska Natives, and veterans.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "U.S. GAO",
+      "Veterans Health Administration (VHA)",
+      "VHA's Office of Rural Health",
+      "Alyssa M. Hundrup"
+    ],
+    "suggested_category": "Healthcare Services",
+    "first_seen_at": null,
+    "article_ids": [
+      "c875891d-789b-4fc5-9a31-501a20416196"
+    ],
+    "source_domains": [
+      "www.gao.gov"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "b1b4ae88-f773-4dac-932f-6df95e9e10b2",
+    "canonical_title": "Climate Change Fuels Mental Health Crisis in Vulnerable Communities",
+    "summary": "Climate change is exacerbating a global mental health crisis, leading to rising rates of anxiety, depression, and trauma in vulnerable communities from South Africa to the Solomon Islands, which often lack adequate mental health care.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Ben Iwara",
+      "Petro Kotzé",
+      "Mongabay",
+      "EHN Curators",
+      "Matthew Bibao Paikea"
+    ],
+    "suggested_category": "Public Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "164463d0-644f-4c98-9685-0e062295914a"
+    ],
+    "source_domains": [
+      "www.dailyclimate.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "4b1905ba-4358-4454-994f-c939b9247cfc",
+    "canonical_title": "Virgin Sues Brightline for $251.3 Million Over Brand Licensing Agreement",
+    "summary": "Virgin Enterprises has launched a $251.3 million lawsuit against Brightline, alleging breach of contract after the US private rail operator terminated a 20-year brand licensing agreement and reversed its \"Virgin Trains USA\" rebranding.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Virgin Enterprises",
+      "Brightline",
+      "Virgin Trains USA",
+      "Mike Reininger",
+      "Patrick Goddard",
+      "Sarah Watterson",
+      "Brightline West",
+      "Wes Edens",
+      "Fortress Investment Group",
+      "Law 360"
+    ],
+    "suggested_category": "Business & M&A",
+    "first_seen_at": null,
+    "article_ids": [
+      "a957e11b-437f-42e7-a2af-4232fff7b99b"
+    ],
+    "source_domains": [
+      "www.railjournal.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "d78bdd8a-7c9b-4b45-ad0b-efcaf10ffc65",
+    "canonical_title": "FRA Study Proposes Expansion and Restoration of U.S. Long-Distance Passenger Rail Network",
+    "summary": "A Federal Railroad Administration (FRA) study proposes restoring and expanding the U.S. long-distance passenger train network, suggesting routes that previously operated or new connections to serve both large and rural communities.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Federal Railroad Administration (FRA)",
+      "Amtrak",
+      "Brightline",
+      "Big Sky Passenger Rail Authority",
+      "John Robert Smith",
+      "Rail Users’ Network (RUN)",
+      "NJ Transit’s Senior Citizens and Disabled Residents Transportation Advisory Committee (SCDRTAC)",
+      "F. K. Plous",
+      "David Peter Alan",
+      "CSX Corp.",
+      "CPKC",
+      "Southern Rail Commission"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": null,
+    "article_ids": [
+      "0be8fd34-a804-4abe-b076-690be8f74fe0"
+    ],
+    "source_domains": [
+      "www.railwayage.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "4eda4245-4cd0-435f-9b96-5a00f846724f",
+    "canonical_title": "Burton Albion Defeats Tranmere Rovers in Carabao Cup Penalties",
+    "summary": "Burton Albion advanced to the second round of the Carabao Cup by defeating Tranmere Rovers in a penalty shootout after their match ended in a 1-1 draw.",
+    "sentiment": "Neutral",
+    "key_entities": [
+      "Burton Albion FC",
+      "Tranmere Rovers FC",
+      "T. Sibbick",
+      "C. Gilligan",
+      "J. Davison",
+      "E. Bristow",
+      "J. Newall",
+      "T. Harris",
+      "C. Jennings",
+      "O. Patrick",
+      "C. Whitaker",
+      "H. Saunders",
+      "S. Solomon",
+      "F. Tavares",
+      "T. Shade",
+      "L. O`Connor",
+      "R. Smallwood",
+      "S. Revan",
+      "G. Bajrami",
+      "B. Whitfield",
+      "Sky Sports Football"
+    ],
+    "suggested_category": "Community Impact",
+    "first_seen_at": null,
+    "article_ids": [
+      "7c7e3296-fa4d-48e7-a05c-64c5fd7f0eaa"
+    ],
+    "source_domains": [
+      "bleacherreport.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "d2f6883e-8d1b-4312-bc4c-a1524fff3fc2",
+    "canonical_title": "Debunking the \"U.S. Too Spread Out for Passenger Rail\" Argument",
+    "summary": "An article vigorously debunks the \"canard\" that the U.S. population is too spread out to support a cost-effective passenger rail network, arguing that many regions have sufficient population density and city configurations for successful train service.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Ike Brannon",
+      "Jack Kemp Foundation",
+      "Amtrak",
+      "Brightline",
+      "CSX Corp.",
+      "F. K. Plous",
+      "David Peter Alan",
+      "Chicago & North Western Railway",
+      "Chicago Sun-Times",
+      "Harry J. Bruce",
+      "Corridor Rail Development",
+      "Rail Users’ Network (RUN)"
+    ],
+    "suggested_category": "Regulatory & Policy",
+    "first_seen_at": null,
+    "article_ids": [
+      "6e1cebbe-3ca2-443b-99e4-583ffb1f51a8"
+    ],
+    "source_domains": [
+      "www.railwayage.com"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "e92c2b66-dea5-4272-b552-0ba57d26de90",
+    "canonical_title": "UNICEF Albania Promotes Mental Health Advocacy Through Neuroscience and Community Initiatives",
+    "summary": "A neuroscience student volunteers with UNICEF Albania, applying scientific knowledge to community-based mental health initiatives and helping to destigmatize mental health issues, particularly through a new Multifunctional Psycho-Social Center in Kukës.",
+    "sentiment": "Positive",
+    "key_entities": [
+      "Ester Dana",
+      "UNICEF Albania",
+      "EU4SocialCare Project",
+      "Albania's Mental Health Action Plan 2023–2026",
+      "Terre des Hommes",
+      "World Vision",
+      "Anila"
+    ],
+    "suggested_category": "Behavioral Health",
+    "first_seen_at": null,
+    "article_ids": [
+      "199ca28d-f9ac-4f2c-8890-507278ca50fb"
+    ],
+    "source_domains": [
+      "www.unicef.org"
+    ],
+    "article_count": 1
+  },
+  {
+    "story_id": "aeafe40f-8c34-4c58-a248-e5dcc2e13eb4",
+    "canonical_title": "Study Finds Statin Overuse in Cerebral Ischemia Leads to Thousands of Avoidable Adverse Events",
+    "summary": "A systematic review and meta-analysis found that over one-fifth of patients with acute cerebral ischemia in the U.S. do not have an indication for statins, and their overuse could lead to over 5,600 needless adverse events annually, including diabetes, myopathy, and eye disease.",
+    "sentiment": "Negative",
+    "key_entities": [
+      "Eleanor Mina Sung",
+      "Jeffrey L. Saver",
+      "Amit Kumar",
+      "Kamalesh Chakravarty",
+      "Sucharita Ray",
+      "Dheeraj Khurana",
+      "American Heart Association",
+      "American Stroke Association",
+      "Medtronic",
+      "Stryker",
+      "Cerenovus",
+      "Boehringer Ingelheim",
+      "Roche",
+      "Genentech",
+      "Bayer",
+      "CSL Behring",
+      "Phillips Medical",
+      "Rapid Medical",
+      "MindRhythm",
+      "Argenx",
+      "Lets Get Proof",
+      "NeuroMerit",
+      "Neuronics",
+      "Cochrane Collaboration",
+      "National Health and Nutrition Examination Survey (NHANES)",
+      "TOAST",
+      "ASCOD",
+      "Causative Classification System",
+      "PRISMA"
+    ],
+    "suggested_category": "Research & Studies",
+    "first_seen_at": null,
+    "article_ids": [
+      "20aced2b-d6d5-45a0-ad46-9fd4c2c72749"
+    ],
+    "source_domains": [
+      "www.ahajournals.org"
+    ],
+    "article_count": 1
+  }
+]
