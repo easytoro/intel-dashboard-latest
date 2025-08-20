@@ -14,7 +14,7 @@ st.set_page_config(
     page_icon="📰"
 )
 
-# --- Data Loading Function (FINAL, ROBUST VERSION) ---
+# --- Data Loading Function (FINAL) ---
 @st.cache_data
 def load_data() -> tuple[list[dict], dict[str, dict], str | None]:
     """
@@ -24,8 +24,16 @@ def load_data() -> tuple[list[dict], dict[str, dict], str | None]:
         - A dictionary mapping article_id to article data.
         - The name of the stories file loaded.
     """
-    stories_file = Path("output_stories.json")
-    articles_file = Path("output_articles.jsonl")
+    #UNCOMMENT TO RUN LOCALLY
+    """ stories_file = Path("output_stories.json")
+    articles_file = Path("output_articles.jsonl") """
+    
+    #TO RUN IN STREAMLIT COMMUNITY CLOUD
+    script_dir = Path(__file__).parent 
+    
+    # Build paths relative to the script's directory
+    stories_file = script_dir / "output_stories.json"
+    articles_file = script_dir / "output_articles.jsonl"
 
     if not stories_file.exists() or not articles_file.exists():
         return [], {}, None
