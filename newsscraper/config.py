@@ -13,8 +13,7 @@ from pydantic import BaseModel
 # ==============================================================================
 # Define target regions and categorical queries in a structured way.
 TARGET_REGIONS = [
-    "US", 
-    "Dallas Fort Worth",
+    "Texas", "Colorado"
 ] 
 
 CATEGORICAL_QUERIES = {
@@ -22,13 +21,13 @@ CATEGORICAL_QUERIES = {
         "mental health", "behavioral health", "telehealth therapy", "psychiatric care"
     ],
     "Regulatory & Policy": [
-        "healthcare policy", "medicaid", "medicare", "health legislation", "SAMHSA", "substance use policy", "mental health policy", "opioid policy", "mental health legislation", "substance use legislation"
+        "healthcare policy", "addiction legislation", "substance use legislation", "SAMHSA", "substance use policy", "mental health policy", "opioid policy", "mental health legislation"
     ],
     "Business & M&A": [
         "clinic expansion", "healthcare acquisition", "telehealth investment", "HCA Healthcare", "substance use acquisition", "addiction treatment acquisition", "addiction treatment business",
     ],
     "Substance Use & Opioids": [
-        "opioid crisis", "addiction treatment", "substance abuse", "fentanyl", "overdose", "substance use disorder", "SUD", "opioid epidemic",
+        "opioid crisis", "addiction treatment", "substance abuse", "fentanyl", "overdose", "substance use disorder", "opioid epidemic",
         "opioid addiction", "opioid treatment", "opioid overdose", "opioid use", "opioid recovery", "opioid prevention", "opioid policy",
     ],
     "Behavioral Health:": [
@@ -36,7 +35,7 @@ CATEGORICAL_QUERIES = {
         "opioid treatment program", "opioid recovery", "opioid prevention"
     ],
     "Clinic Based": [
-        "inpatient care", "outpatient services", "mental health clinic", "substance use clinic", 
+        "inpatient care addiction", "outpatient services addiction", "mental health clinic", "substance use clinic", 
         "addiction rehabilitation center", "addiction treatment center", 
     ],
     "Behavioral Health Companies": [

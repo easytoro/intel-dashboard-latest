@@ -25,8 +25,8 @@ def load_data() -> tuple[list[dict], dict[str, dict], str | None]:
         - The name of the stories file loaded.
     """
     #UNCOMMENT TO RUN LOCALLY
-    """ stories_file = Path("output_stories.json")
-    articles_file = Path("output_articles.jsonl") """
+    #stories_file = Path("output_stories.json")
+    #articles_file = Path("output_articles.jsonl")
     
     #TO RUN IN STREAMLIT COMMUNITY CLOUD
     script_dir = Path(__file__).parent 
@@ -120,7 +120,6 @@ all_categories = sorted(list(set(story.get('suggested_category') for story in st
 page_options = ["Dashboard Overview", "All Stories"] + all_categories
 
 st.sidebar.title("Navigation")
-st.sidebar.info(f"Briefing loaded: **{filename}**")
 selected_page = st.sidebar.radio("Menu", page_options, key="page_selector", label_visibility="collapsed")
 
 # ==============================================================================
